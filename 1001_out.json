@@ -1,0 +1,7405 @@
+[
+    {
+        "title": "A Trip to the Moon (Le Voyage Dans La Lune)",
+        "year": "1902",
+        "tmdb_id": 775,
+        "tmdb_year": "1902"
+    },
+    {
+        "title": "The Great Train Robbery",
+        "year": "1903",
+        "tmdb_id": 5698,
+        "tmdb_year": "1903"
+    },
+    {
+        "title": "The Birth of a Nation",
+        "year": "1915",
+        "tmdb_id": 618,
+        "tmdb_year": "1915"
+    },
+    {
+        "title": "Les Vampires",
+        "year": "1915",
+        "tmdb_id": 29082,
+        "tmdb_year": "1915"
+    },
+    {
+        "title": "Intolerance",
+        "year": "1916",
+        "tmdb_id": 3059,
+        "tmdb_year": "1916"
+    },
+    {
+        "title": "The Cabinet of Dr. Caligari (Das Kabinett des Doktor Caligari)",
+        "year": "1920",
+        "tmdb_id": 234,
+        "tmdb_year": "1920"
+    },
+    {
+        "title": "Broken Blossoms",
+        "year": "1919",
+        "tmdb_id": 899,
+        "tmdb_year": "1919"
+    },
+    {
+        "title": "Within Our Gates",
+        "year": "1920",
+        "tmdb_id": 77621,
+        "tmdb_year": "1920"
+    },
+    {
+        "title": "Way Down East",
+        "year": "1920",
+        "tmdb_id": 31509,
+        "tmdb_year": "1920"
+    },
+    {
+        "title": "Orphans of the Storm",
+        "year": "1921",
+        "tmdb_id": 42511,
+        "tmdb_year": "1921"
+    },
+    {
+        "title": "The Phantom Carriage (Körkarlen)",
+        "year": "1921",
+        "tmdb_id": 58129,
+        "tmdb_year": "1921"
+    },
+    {
+        "title": "The Smiling Madame Beudet (La Souriante Madame Beudet)",
+        "year": "1922",
+        "tmdb_id": 49452,
+        "tmdb_year": "1923"
+    },
+    {
+        "title": "Dr. Mabuse, the Gambler (Dr. Mabuse, der Spieler)",
+        "year": "1922",
+        "tmdb_id": 5998,
+        "tmdb_year": "1922"
+    },
+    {
+        "title": "Nanook of the North",
+        "year": "1922",
+        "tmdb_id": 669,
+        "tmdb_year": "1922"
+    },
+    {
+        "title": "Nosferatu, A Symphony of Terror (Nosferatu, eine Symphonie des Grauens)",
+        "year": "1922",
+        "tmdb_id": 653,
+        "tmdb_year": "1922"
+    },
+    {
+        "title": "Häxan",
+        "year": "1923",
+        "tmdb_id": 57283,
+        "tmdb_year": "1922"
+    },
+    {
+        "title": "Foolish Wives",
+        "year": "1922",
+        "tmdb_id": 35227,
+        "tmdb_year": "1922"
+    },
+    {
+        "title": "Our Hospitality",
+        "year": "1923",
+        "tmdb_id": 701,
+        "tmdb_year": "1923"
+    },
+    {
+        "title": "The Wheel (La Roue)",
+        "year": "1923",
+        "tmdb_id": 50182,
+        "tmdb_year": "1923"
+    },
+    {
+        "title": "The Last Laugh (Der Letzte Mann)",
+        "year": "1924",
+        "tmdb_id": 5991,
+        "tmdb_year": "1924"
+    },
+    {
+        "title": "Strike (Stachka)",
+        "year": "1924",
+        "tmdb_id": 44967,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "Sherlock, Jr.",
+        "year": "1924",
+        "tmdb_id": 992,
+        "tmdb_year": "1924"
+    },
+    {
+        "title": "The Great White Silence",
+        "year": "1924",
+        "tmdb_id": 84880,
+        "tmdb_year": "1924"
+    },
+    {
+        "title": "Greed",
+        "year": "1924",
+        "tmdb_id": 1405,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Thief of Bagdad",
+        "year": "1924",
+        "tmdb_id": 28963,
+        "tmdb_year": "1924"
+    },
+    {
+        "title": "The Eagle",
+        "year": "1925",
+        "tmdb_id": 98477,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Phantom of the Opera",
+        "year": "1925",
+        "tmdb_id": 964,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Battleship Potemkin (Bronenosets Potyomkin)",
+        "year": "1925",
+        "tmdb_id": 643,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Gold Rush",
+        "year": "1925",
+        "tmdb_id": 962,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Big Parade",
+        "year": "1925",
+        "tmdb_id": 3060,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "Seven Chances",
+        "year": "1925",
+        "tmdb_id": 32600,
+        "tmdb_year": "1925"
+    },
+    {
+        "title": "The Adventures of Prince Achmed (Die Abenteuer des Prinzen Achmed)",
+        "year": "1926",
+        "tmdb_id": 19354,
+        "tmdb_year": "1926"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "tmdb_id": 19,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "Sunrise",
+        "year": "1927",
+        "tmdb_id": 631,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "The General",
+        "year": "1927",
+        "tmdb_id": 961,
+        "tmdb_year": "1926"
+    },
+    {
+        "title": "The Unknown",
+        "year": "1927",
+        "tmdb_id": 27503,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "October (Oktyabr)",
+        "year": "1927",
+        "tmdb_id": 697,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "The Jazz Singer",
+        "year": "1927",
+        "tmdb_id": 939,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "Napoléon",
+        "year": "1927",
+        "tmdb_id": 42536,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "The Kid Brother",
+        "year": "1927",
+        "tmdb_id": 16661,
+        "tmdb_year": "1927"
+    },
+    {
+        "title": "The Crowd",
+        "year": "1928",
+        "tmdb_id": 3061,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "The Docks of New York",
+        "year": "1928",
+        "tmdb_id": 885,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "The Passion of Joan of Arc (La Passion de Jeanne d'Arc)",
+        "year": "1928",
+        "tmdb_id": 780,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "An Andalusian Dog (Un Chien Andalou)",
+        "year": "1928",
+        "tmdb_id": 626,
+        "tmdb_year": "1929"
+    },
+    {
+        "title": "Steamboat Bill, Jr.",
+        "year": "1928",
+        "tmdb_id": 25768,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "Storm Over Asia (Potomok Chingis-khana)",
+        "year": "1928",
+        "tmdb_id": 84273,
+        "tmdb_year": "1928"
+    },
+    {
+        "title": "A Throw of Dice (Prapancha Pash)",
+        "year": "1929",
+        "tmdb_id": 35454,
+        "tmdb_year": "1929"
+    },
+    {
+        "title": "The Man with the Movie Camera (Chelovek S Kinoapparatom)",
+        "year": "1929",
+        "tmdb_id": 26317,
+        "tmdb_year": "1929"
+    },
+    {
+        "title": "Pandora's Box (Die Büchse der Pandora)",
+        "year": "1929",
+        "tmdb_id": 905,
+        "tmdb_year": "1929"
+    },
+    {
+        "title": "Blackmail",
+        "year": "1929",
+        "tmdb_id": 543,
+        "tmdb_year": "1929"
+    },
+    {
+        "title": "Little Caesar",
+        "year": "1931",
+        "tmdb_id": 27899,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "The Blue Angel (Der Blaue Engel)",
+        "year": "1930",
+        "tmdb_id": 228,
+        "tmdb_year": "1930"
+    },
+    {
+        "title": "All Quiet on the Western Front",
+        "year": "1930",
+        "tmdb_id": 143,
+        "tmdb_year": "1930"
+    },
+    {
+        "title": "The Age of Gold (L'Âge d'or)",
+        "year": "1930",
+        "tmdb_id": 5729,
+        "tmdb_year": "1930"
+    },
+    {
+        "title": "Earth (Zemlya)",
+        "year": "1930",
+        "tmdb_id": 46594,
+        "tmdb_year": "1930"
+    },
+    {
+        "title": "Freedom for Us (À Nous la Liberté)",
+        "year": "1931",
+        "tmdb_id": 31514,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "Limite",
+        "year": "1931",
+        "tmdb_id": 8353,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "Tabu",
+        "year": "1931",
+        "tmdb_id": 977,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "tmdb_id": 901,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "Dracula",
+        "year": "1931",
+        "tmdb_id": 138,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "Frankenstein",
+        "year": "1931",
+        "tmdb_id": 3035,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "The Public Enemy",
+        "year": "1931",
+        "tmdb_id": 17687,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "tmdb_id": 832,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "The Million (Le Million)",
+        "year": "1931",
+        "tmdb_id": 32317,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "The Bitch (La Chienne)",
+        "year": "1931",
+        "tmdb_id": 26614,
+        "tmdb_year": "1931"
+    },
+    {
+        "title": "The Vampire (Vampyr)",
+        "year": "1932",
+        "tmdb_id": 779,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "I Am a Fugitive From a Chain Gang",
+        "year": "1932",
+        "tmdb_id": 29740,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Boudu Saved from Drowning (Boudu Sauvé des Eaux)",
+        "year": "1932",
+        "tmdb_id": 48365,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Love Me Tonight",
+        "year": "1932",
+        "tmdb_id": 31532,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Shanghai Express",
+        "year": "1932",
+        "tmdb_id": 875,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Trouble in Paradise",
+        "year": "1932",
+        "tmdb_id": 195,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Scarface: The Shame of a Nation",
+        "year": "1932",
+        "tmdb_id": 877,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Freaks",
+        "year": "1932",
+        "tmdb_id": 136,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "Me and My Gal",
+        "year": "1932",
+        "tmdb_id": 84337,
+        "tmdb_year": "1932"
+    },
+    {
+        "title": "42nd Street",
+        "year": "1933",
+        "tmdb_id": 3062,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Footlight Parade",
+        "year": "1933",
+        "tmdb_id": 28432,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "The Bitter Tea of General Yen",
+        "year": "1933",
+        "tmdb_id": 34187,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "She Done Him Wrong",
+        "year": "1933",
+        "tmdb_id": 43595,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Duck Soup",
+        "year": "1933",
+        "tmdb_id": 3063,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Zero for Conduct (Zéro de Conduite)",
+        "year": "1933",
+        "tmdb_id": 44494,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Gold Diggers of 1933",
+        "year": "1933",
+        "tmdb_id": 31511,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "King Kong",
+        "year": "1933",
+        "tmdb_id": 244,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Land Without Bread (Las Hurdes)",
+        "year": "1933",
+        "tmdb_id": 91,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Sons of the Desert",
+        "year": "1933",
+        "tmdb_id": 43128,
+        "tmdb_year": "1933"
+    },
+    {
+        "title": "Queen Christina",
+        "year": "1933",
+        "tmdb_id": 31526,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "Triumph of the Will (Triumph des Willens)",
+        "year": "1934",
+        "tmdb_id": 39266,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "It's a Gift",
+        "year": "1934",
+        "tmdb_id": 28001,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "The Goddess (Shen nu)",
+        "year": "1934",
+        "tmdb_id": 112698,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "It Happened One Night",
+        "year": "1934",
+        "tmdb_id": 3078,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "L'Atalante",
+        "year": "1934",
+        "tmdb_id": 43904,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "The Black Cat",
+        "year": "1934",
+        "tmdb_id": 24106,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "The Thin Man",
+        "year": "1934",
+        "tmdb_id": 3529,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "Judge Priest",
+        "year": "1934",
+        "tmdb_id": 23024,
+        "tmdb_year": "1934"
+    },
+    {
+        "title": "Mutiny on the Bounty",
+        "year": "1935",
+        "tmdb_id": 12311,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "The 39 Steps",
+        "year": "1935",
+        "tmdb_id": 260,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "A Night at the Opera",
+        "year": "1935",
+        "tmdb_id": 37719,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "Bride of Frankenstein",
+        "year": "1935",
+        "tmdb_id": 229,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "Captain Blood",
+        "year": "1935",
+        "tmdb_id": 16905,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "Top Hat",
+        "year": "1935",
+        "tmdb_id": 3080,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "Peter Ibbetson",
+        "year": "1935",
+        "tmdb_id": 57412,
+        "tmdb_year": "1935"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "tmdb_id": 3082,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "Swing Time",
+        "year": "1936",
+        "tmdb_id": 20325,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "Mr. Deeds Goes to Town",
+        "year": "1936",
+        "tmdb_id": 24807,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "My Man Godfrey",
+        "year": "1936",
+        "tmdb_id": 13562,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "The Story of a Cheat (Le Roman d'un Tricheur)",
+        "year": "1936",
+        "tmdb_id": 65642,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "Camille",
+        "year": "1936",
+        "tmdb_id": 43874,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "Things to Come",
+        "year": "1936",
+        "tmdb_id": 3596,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "Dodsworth",
+        "year": "1936",
+        "tmdb_id": 31507,
+        "tmdb_year": "1936"
+    },
+    {
+        "title": "A Day in the Country (Une Partie de Campagne)",
+        "year": "1936",
+        "tmdb_id": 43878,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Sabotage",
+        "year": "1936",
+        "tmdb_id": 12684,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Pépé le Moko",
+        "year": "1937",
+        "tmdb_id": 26252,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Make Way for Tomorrow",
+        "year": "1937",
+        "tmdb_id": 41059,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Grand Illusion (La Grande Illusion)",
+        "year": "1937",
+        "tmdb_id": 777,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Stella Dallas",
+        "year": "1937",
+        "tmdb_id": 43865,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Midnight Song (Ye Ban Ge Sheng)",
+        "year": "1937",
+        "tmdb_id": 30992,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Snow White and the Seven Dwarves",
+        "year": "1937",
+        "tmdb_id": 408,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Captains Courageous",
+        "year": "1937",
+        "tmdb_id": 16515,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "The Awful Truth",
+        "year": "1937",
+        "tmdb_id": 14675,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "The Life of Emile Zola",
+        "year": "1937",
+        "tmdb_id": 43278,
+        "tmdb_year": "1937"
+    },
+    {
+        "title": "Jezebel",
+        "year": "1938",
+        "tmdb_id": 1976,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "The Adventures of Robin Hood",
+        "year": "1938",
+        "tmdb_id": 10907,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "Angels with Dirty Faces",
+        "year": "1938",
+        "tmdb_id": 13696,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "The Baker's Wife (La Femme du Boulanger)",
+        "year": "1938",
+        "tmdb_id": 43844,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "Bringing Up Baby",
+        "year": "1938",
+        "tmdb_id": 900,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "Olympia Part 1: Festival of the Nations (Olympia 1. Teil: Fest der Völker)",
+        "year": "1938",
+        "tmdb_id": 685,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "Olympia Part 2: Festival of Beauty (Olympia 2. Teil: Fest der Schönheit)",
+        "year": "1938",
+        "tmdb_id": 677,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "The Lady Vanishes",
+        "year": "1938",
+        "tmdb_id": 940,
+        "tmdb_year": "1938"
+    },
+    {
+        "title": "Wuthering Heights",
+        "year": "1939",
+        "tmdb_id": 3084,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "year": "1939",
+        "tmdb_id": 3083,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Stagecoach",
+        "year": "1939",
+        "tmdb_id": 995,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Only Angels Have Wings",
+        "year": "1939",
+        "tmdb_id": 43832,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Destry Rides Again",
+        "year": "1939",
+        "tmdb_id": 43828,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Gone With the Wind",
+        "year": "1939",
+        "tmdb_id": 770,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Daybreak (Le jour se lève)",
+        "year": "1939",
+        "tmdb_id": 27053,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Gunga Din",
+        "year": "1939",
+        "tmdb_id": 24965,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Ninotchka",
+        "year": "1939",
+        "tmdb_id": 1859,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "tmdb_id": 630,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "The Rules of the Game (La Régle du Jeu)",
+        "year": "1939",
+        "tmdb_id": 776,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "The Story of the Late Chrysanthemums (Zangiku Monogatari)",
+        "year": "1939",
+        "tmdb_id": 46069,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "Babes in Arms",
+        "year": "1939",
+        "tmdb_id": 32610,
+        "tmdb_year": "1939"
+    },
+    {
+        "title": "His Girl Friday",
+        "year": "1940",
+        "tmdb_id": 3085,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "Fantasia",
+        "year": "1940",
+        "tmdb_id": 756,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "Rebecca",
+        "year": "1940",
+        "tmdb_id": 223,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "The Philadelphia Story",
+        "year": "1940",
+        "tmdb_id": 981,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": "1940",
+        "tmdb_id": 596,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "The Mortal Storm",
+        "year": "1940",
+        "tmdb_id": 989,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "The Bank Dick",
+        "year": "1940",
+        "tmdb_id": 911,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "Pinocchio",
+        "year": "1940",
+        "tmdb_id": 10895,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "Dance, Girl, Dance",
+        "year": "1940",
+        "tmdb_id": 32196,
+        "tmdb_year": "1940"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "1941",
+        "tmdb_id": 15,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "Sergeant York",
+        "year": "1941",
+        "tmdb_id": 16442,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "The Lady Eve",
+        "year": "1941",
+        "tmdb_id": 3086,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "The Wolf Man",
+        "year": "1941",
+        "tmdb_id": 13666,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "High Sierra",
+        "year": "1941",
+        "tmdb_id": 27725,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "How Green Was My Valley",
+        "year": "1941",
+        "tmdb_id": 43266,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "Sullivan's Travels",
+        "year": "1941",
+        "tmdb_id": 16305,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "The Maltese Falcon",
+        "year": "1941",
+        "tmdb_id": 963,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "Dumbo",
+        "year": "1941",
+        "tmdb_id": 11360,
+        "tmdb_year": "1941"
+    },
+    {
+        "title": "The Palm Beach Story",
+        "year": "1942",
+        "tmdb_id": 32255,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Now, Voyager",
+        "year": "1942",
+        "tmdb_id": 32847,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "To Be Or Not To Be",
+        "year": "1942",
+        "tmdb_id": 198,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "The Magnificent Ambersons",
+        "year": "1942",
+        "tmdb_id": 965,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Yankee Doodle Dandy",
+        "year": "1942",
+        "tmdb_id": 3087,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Mrs. Miniver",
+        "year": "1942",
+        "tmdb_id": 27367,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "tmdb_id": 289,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Cat People",
+        "year": "1942",
+        "tmdb_id": 25508,
+        "tmdb_year": "1942"
+    },
+    {
+        "title": "Fires Were Started",
+        "year": "1943",
+        "tmdb_id": 84656,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "The Ox-Bow Incident",
+        "year": "1943",
+        "tmdb_id": 980,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "The Life and Death of Colonel Blimp",
+        "year": "1943",
+        "tmdb_id": 25037,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "Meshes of the Afternoon",
+        "year": "1943",
+        "tmdb_id": 27040,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "The Seventh Victim",
+        "year": "1943",
+        "tmdb_id": 20945,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "The Man in Grey",
+        "year": "1943",
+        "tmdb_id": 41996,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "Shadow of a Doubt",
+        "year": "1943",
+        "tmdb_id": 21734,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "Ossessione",
+        "year": "1943",
+        "tmdb_id": 5155,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "I Walked with a Zombie",
+        "year": "1943",
+        "tmdb_id": 27130,
+        "tmdb_year": "1943"
+    },
+    {
+        "title": "Laura",
+        "year": "1944",
+        "tmdb_id": 1939,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "Meet Me in St. Louis",
+        "year": "1944",
+        "tmdb_id": 909,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "To Have and Have Not",
+        "year": "1944",
+        "tmdb_id": 22584,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Gaslight",
+        "year": "1944",
+        "tmdb_id": 13528,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "Henry V",
+        "year": "1944",
+        "tmdb_id": 22638,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "tmdb_id": 996,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "Murder, My Sweet (Farewell My Lovely)",
+        "year": "1944",
+        "tmdb_id": 1834,
+        "tmdb_year": "1944"
+    },
+    {
+        "title": "Ivan the Terrible, Part I (Ivan Groznyj)",
+        "year": "1944",
+        "tmdb_id": 9797,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Ivan the Terrible, Part II: The Boyars’ Plot (Ivan Groznyj: Skaz Vtoroy – Boyarskiy Zagovor)",
+        "year": "1958",
+        "tmdb_id": 43118,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Mildred Pierce",
+        "year": "1945",
+        "tmdb_id": 3309,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Detour",
+        "year": "1945",
+        "tmdb_id": 20367,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "I Know Where I'm Going!",
+        "year": "1945",
+        "tmdb_id": 56137,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "The Lost Weekend",
+        "year": "1945",
+        "tmdb_id": 28580,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "The Children of Paradise (Les Enfants du Paradis)",
+        "year": "1945",
+        "tmdb_id": 2457,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "The Battle of San Pietro",
+        "year": "1945",
+        "tmdb_id": 84701,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Brief Encounter",
+        "year": "1945",
+        "tmdb_id": 851,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Rome, Open City (Roma, Città Aperta)",
+        "year": "1945",
+        "tmdb_id": 307,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "Spellbound",
+        "year": "1945",
+        "tmdb_id": 4174,
+        "tmdb_year": "1945"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "tmdb_id": 887,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Paisan (Paisà)",
+        "year": "1946",
+        "tmdb_id": 8429,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "The Postman Always Rings Twice",
+        "year": "1946",
+        "tmdb_id": 25736,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Beauty and the Beast (La Belle et la Bête)",
+        "year": "1946",
+        "tmdb_id": 648,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "The Killers",
+        "year": "1946",
+        "tmdb_id": 14638,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "tmdb_id": 1585,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "The Big Sleep",
+        "year": "1946",
+        "tmdb_id": 910,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Gilda",
+        "year": "1946",
+        "tmdb_id": 3767,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "A Matter of Life and Death",
+        "year": "1946",
+        "tmdb_id": 28162,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Great Expectations",
+        "year": "1946",
+        "tmdb_id": 14320,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "My Darling Clementine",
+        "year": "1946",
+        "tmdb_id": 3088,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Notorious",
+        "year": "1946",
+        "tmdb_id": 303,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Black Narcissus",
+        "year": "1946",
+        "tmdb_id": 16391,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "The Stranger",
+        "year": "1946",
+        "tmdb_id": 20246,
+        "tmdb_year": "1946"
+    },
+    {
+        "title": "Out of the Past",
+        "year": "1947",
+        "tmdb_id": 678,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "Monsieur Verdoux",
+        "year": "1947",
+        "tmdb_id": 30588,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "Odd Man Out",
+        "year": "1947",
+        "tmdb_id": 43461,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "The Ghost and Mrs. Muir",
+        "year": "1947",
+        "tmdb_id": 22292,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "The Bicycle Thief (Ladri di Biciclette)",
+        "year": "1948",
+        "tmdb_id": 5156,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Letter From an Unknown Woman",
+        "year": "1948",
+        "tmdb_id": 946,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Secret Beyond the Door",
+        "year": "1948",
+        "tmdb_id": 560,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "Force of Evil",
+        "year": "1948",
+        "tmdb_id": 26744,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Spring in a Small Town (Xiao Cheng Zhi Chun)",
+        "year": "1948",
+        "tmdb_id": 21058,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Red River",
+        "year": "1948",
+        "tmdb_id": 3089,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "The Paleface",
+        "year": "1948",
+        "tmdb_id": 17804,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "The Snake Pit",
+        "year": "1948",
+        "tmdb_id": 62694,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "The Lady From Shanghai",
+        "year": "1948",
+        "tmdb_id": 3766,
+        "tmdb_year": "1947"
+    },
+    {
+        "title": "Rope",
+        "year": "1948",
+        "tmdb_id": 1580,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "The Red Shoes",
+        "year": "1948",
+        "tmdb_id": 19542,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "tmdb_id": 3090,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Louisiana Story",
+        "year": "1948",
+        "tmdb_id": 70447,
+        "tmdb_year": "1948"
+    },
+    {
+        "title": "Gun Crazy",
+        "year": "1949",
+        "tmdb_id": 18671,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "The Reckless Moment",
+        "year": "1949",
+        "tmdb_id": 28007,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "White Heat",
+        "year": "1949",
+        "tmdb_id": 15794,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "Adam's Rib",
+        "year": "1949",
+        "tmdb_id": 25431,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "The Heiress",
+        "year": "1949",
+        "tmdb_id": 28571,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "tmdb_id": 1092,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "Kind Hearts and Coronets",
+        "year": "1949",
+        "tmdb_id": 11898,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "Whiskey Galore!",
+        "year": "1949",
+        "tmdb_id": 16665,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "On the Town",
+        "year": "1949",
+        "tmdb_id": 31516,
+        "tmdb_year": "1949"
+    },
+    {
+        "title": "Orpheus (Orphée)",
+        "year": "1950",
+        "tmdb_id": 4558,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "The Asphalt Jungle",
+        "year": "1950",
+        "tmdb_id": 16958,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "tmdb_id": 548,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "tmdb_id": 705,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "Winchester '73",
+        "year": "1950",
+        "tmdb_id": 14551,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "Rio Grande",
+        "year": "1950",
+        "tmdb_id": 11617,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "year": "1950",
+        "tmdb_id": 599,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "The Young and the Damned (Los Olvidados)",
+        "year": "1950",
+        "tmdb_id": 800,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "In a Lonely Place",
+        "year": "1950",
+        "tmdb_id": 17057,
+        "tmdb_year": "1950"
+    },
+    {
+        "title": "The Big Carnival (Ace in the Hole)",
+        "year": "1951",
+        "tmdb_id": 25364,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "Strangers on a Train",
+        "year": "1951",
+        "tmdb_id": 845,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "A Streetcar Named Desire",
+        "year": "1951",
+        "tmdb_id": 702,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "An American in Paris",
+        "year": "1951",
+        "tmdb_id": 2769,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "Pandora and the Flying Dutchman",
+        "year": "1951",
+        "tmdb_id": 38688,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "The African Queen",
+        "year": "1951",
+        "tmdb_id": 488,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "A Place in the Sun",
+        "year": "1951",
+        "tmdb_id": 25673,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "The Lavender Hill Mob",
+        "year": "1951",
+        "tmdb_id": 32961,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "Diary of a Country Priest (Journal d'un Curé de Campagne)",
+        "year": "1951",
+        "tmdb_id": 43376,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "The Day the Earth Stood Still",
+        "year": "1951",
+        "tmdb_id": 828,
+        "tmdb_year": "1951"
+    },
+    {
+        "title": "The Quiet Man",
+        "year": "1952",
+        "tmdb_id": 3109,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Forbidden Games (Jeux Interdits)",
+        "year": "1952",
+        "tmdb_id": 5000,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Europa '51",
+        "year": "1952",
+        "tmdb_id": 41464,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Singin' In the Rain",
+        "year": "1952",
+        "tmdb_id": 872,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "The Bad and the Beautiful",
+        "year": "1952",
+        "tmdb_id": 32499,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "To Live (Ikiru)",
+        "year": "1952",
+        "tmdb_id": 3782,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Umberto D",
+        "year": "1952",
+        "tmdb_id": 833,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "High Noon",
+        "year": "1952",
+        "tmdb_id": 288,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "The Golden Coach (Le Carrosse d'or)",
+        "year": "1953",
+        "tmdb_id": 56167,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Angel Face",
+        "year": "1952",
+        "tmdb_id": 1938,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Big Sky",
+        "year": "1952",
+        "tmdb_id": 43367,
+        "tmdb_year": "1952"
+    },
+    {
+        "title": "Summer with Monika (Sommaren med Monika)",
+        "year": "1953",
+        "tmdb_id": 47735,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Pickup on South Street",
+        "year": "1953",
+        "tmdb_id": 25955,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Band Wagon",
+        "year": "1953",
+        "tmdb_id": 29376,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Mr. Hulot's Holiday (Les Vacances de M. Hulot)",
+        "year": "1953",
+        "tmdb_id": 778,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Earrings of Madame De... (Madame De...)",
+        "year": "1953",
+        "tmdb_id": 27030,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Wages of Fear (Le Salaire de la Peur)",
+        "year": "1953",
+        "tmdb_id": 204,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Bigamist",
+        "year": "1953",
+        "tmdb_id": 74122,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Naked Spur",
+        "year": "1953",
+        "tmdb_id": 20442,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "tmdb_id": 18148,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "From Here to Eternity",
+        "year": "1953",
+        "tmdb_id": 11426,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Tales of Ugetsu (Ugetsu Monogatari)",
+        "year": "1953",
+        "tmdb_id": 14696,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Voyage in Italy (Viaggio in Italia)",
+        "year": "1953",
+        "tmdb_id": 2748,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Shane",
+        "year": "1953",
+        "tmdb_id": 3110,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Gentlemen Prefer Blondes",
+        "year": "1953",
+        "tmdb_id": 759,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Roman Holiday",
+        "year": "1953",
+        "tmdb_id": 804,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "The Big Heat",
+        "year": "1953",
+        "tmdb_id": 14580,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "Beat the Devil",
+        "year": "1953",
+        "tmdb_id": 22733,
+        "tmdb_year": "1953"
+    },
+    {
+        "title": "On the Waterfront",
+        "year": "1954",
+        "tmdb_id": 654,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "The Road (La Strada)",
+        "year": "1954",
+        "tmdb_id": 405,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Les Diaboliques",
+        "year": "1954",
+        "tmdb_id": 827,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "A Star is Born",
+        "year": "1954",
+        "tmdb_id": 3111,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "tmdb_id": 567,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "The Wanton Countess (Senso)",
+        "year": "1954",
+        "tmdb_id": 43195,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Silver Lode",
+        "year": "1954",
+        "tmdb_id": 27443,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "The Barefoot Contessa",
+        "year": "1954",
+        "tmdb_id": 34689,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Seven Samurai (Shichinin no Samurai)",
+        "year": "1954",
+        "tmdb_id": 346,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Sansho the Baliff (Sanshô Dayû)",
+        "year": "1954",
+        "tmdb_id": 20532,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Carmen Jones",
+        "year": "1954",
+        "tmdb_id": 51044,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Johnny Guitar",
+        "year": "1954",
+        "tmdb_id": 26596,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Salt of the Earth",
+        "year": "1954",
+        "tmdb_id": 23620,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Seven Brides for Seven Brothers",
+        "year": "1954",
+        "tmdb_id": 16563,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "Animal Farm",
+        "year": "1954",
+        "tmdb_id": 11848,
+        "tmdb_year": "1954"
+    },
+    {
+        "title": "The Sins of Lola Montes (Lola Montès)",
+        "year": "1955",
+        "tmdb_id": 35987,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Pather Panchali",
+        "year": "1955",
+        "tmdb_id": 5801,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Ordet",
+        "year": "1955",
+        "tmdb_id": 48035,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Marty",
+        "year": "1955",
+        "tmdb_id": 15919,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Artists and Models",
+        "year": "1955",
+        "tmdb_id": 43317,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Rebel Without a Cause",
+        "year": "1955",
+        "tmdb_id": 221,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Mad Masters (Les Maîtres Fous)",
+        "year": "1955",
+        "tmdb_id": 84820,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Hill 24 Doesn't Answer",
+        "year": "1955",
+        "tmdb_id": 84850,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Bad Day at Black Rock",
+        "year": "1955",
+        "tmdb_id": 14554,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Night and Fog (Nuit et Brouillard)",
+        "year": "1955",
+        "tmdb_id": 803,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Phenix City Story",
+        "year": "1955",
+        "tmdb_id": 35956,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Man with the Golden Arm",
+        "year": "1955",
+        "tmdb_id": 541,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Kiss Me Deadly",
+        "year": "1955",
+        "tmdb_id": 18030,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Guys and Dolls",
+        "year": "1955",
+        "tmdb_id": 4825,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Night of the Hunter",
+        "year": "1955",
+        "tmdb_id": 3112,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Ladykillers",
+        "year": "1955",
+        "tmdb_id": 5506,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Oklahoma!",
+        "year": "1955",
+        "tmdb_id": 13936,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Smiles of a Summer Night (Sommarnattens Leende)",
+        "year": "1955",
+        "tmdb_id": 11700,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "Bob the Gambler (Bob le Flambeur)",
+        "year": "1955",
+        "tmdb_id": 26030,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "All That Heaven Allows",
+        "year": "1955",
+        "tmdb_id": 43316,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Man From Laramie",
+        "year": "1955",
+        "tmdb_id": 18264,
+        "tmdb_year": "1955"
+    },
+    {
+        "title": "The Ten Commandments",
+        "year": "1956",
+        "tmdb_id": 6844,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Searchers",
+        "year": "1956",
+        "tmdb_id": 3114,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Burmese Harp (Biruma no Tategoto)",
+        "year": "1956",
+        "tmdb_id": 33319,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Forbidden Planet",
+        "year": "1956",
+        "tmdb_id": 830,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Written on the Wind",
+        "year": "1956",
+        "tmdb_id": 69605,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "A Man Escaped (Un Condamné à Mort s'est Échappé ou le Vent Souffle où il Veut)",
+        "year": "1956",
+        "tmdb_id": 15244,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Bigger Than Life",
+        "year": "1956",
+        "tmdb_id": 26036,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Invasion of the Body Snatchers",
+        "year": "1956",
+        "tmdb_id": 11549,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Giant",
+        "year": "1956",
+        "tmdb_id": 1712,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Wrong Man",
+        "year": "1956",
+        "tmdb_id": 22527,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "High Society",
+        "year": "1956",
+        "tmdb_id": 11424,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Man Who Knew Too Much",
+        "year": "1956",
+        "tmdb_id": 574,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "Throne of Blood (Kumonosu Jo)",
+        "year": "1957",
+        "tmdb_id": 3777,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "tmdb_id": 975,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "An Affair to Remember",
+        "year": "1957",
+        "tmdb_id": 8356,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "The Seventh Seal (Det Sjunde Inseglet)",
+        "year": "1957",
+        "tmdb_id": 490,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "tmdb_id": 389,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Wild Strawberries (Smultronstället)",
+        "year": "1957",
+        "tmdb_id": 614,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "The Incredible Shrinking Man",
+        "year": "1957",
+        "tmdb_id": 31682,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Gunfight at the O.K. Corral",
+        "year": "1957",
+        "tmdb_id": 22201,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Nights of Cabiria (Le Notti di Cabiria)",
+        "year": "1957",
+        "tmdb_id": 19426,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "The Cranes are Flying (Letjat Zhuravli)",
+        "year": "1957",
+        "tmdb_id": 38360,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "The Unvanquished (Aparajito)",
+        "year": "1957",
+        "tmdb_id": 897,
+        "tmdb_year": "1956"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "tmdb_id": 826,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Sweet Smell of Success",
+        "year": "1957",
+        "tmdb_id": 976,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Mother India (Bharat Mata)",
+        "year": "1957",
+        "tmdb_id": 917,
+        "tmdb_year": "1957"
+    },
+    {
+        "title": "Touch of Evil",
+        "year": "1958",
+        "tmdb_id": 1480,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Gigi",
+        "year": "1958",
+        "tmdb_id": 17281,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "The Defiant Ones",
+        "year": "1958",
+        "tmdb_id": 11414,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Man of the West",
+        "year": "1958",
+        "tmdb_id": 14674,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "tmdb_id": 426,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Ashes and Diamonds (Popiól i Diament)",
+        "year": "1958",
+        "tmdb_id": 5055,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Cairo Station (Bab el Hadid)",
+        "year": "1958",
+        "tmdb_id": 47324,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "The Music Room (Jalsaghar)",
+        "year": "1958",
+        "tmdb_id": 822,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "My Uncle (Mon Oncle)",
+        "year": "1958",
+        "tmdb_id": 427,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Some Came Running",
+        "year": "1958",
+        "tmdb_id": 38724,
+        "tmdb_year": "1958"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "tmdb_id": 239,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "North by Northwest",
+        "year": "1959",
+        "tmdb_id": 213,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "The 400 Blows (Les Quatre Cents Coups)",
+        "year": "1959",
+        "tmdb_id": 147,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Pickpocket",
+        "year": "1959",
+        "tmdb_id": 690,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Hiroshima Mon Amour",
+        "year": "1959",
+        "tmdb_id": 5544,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Ride Lonesome",
+        "year": "1959",
+        "tmdb_id": 27644,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Black Orpheus (Orfeu Negro)",
+        "year": "1959",
+        "tmdb_id": 40423,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "tmdb_id": 665,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Anatomy of a Murder",
+        "year": "1959",
+        "tmdb_id": 93,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Shadows",
+        "year": "1959",
+        "tmdb_id": 15484,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "The World of Apu (Apur Sansar)",
+        "year": "1959",
+        "tmdb_id": 896,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Rio Bravo",
+        "year": "1959",
+        "tmdb_id": 301,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Floating Weeds (Ukigusa)",
+        "year": "1959",
+        "tmdb_id": 46918,
+        "tmdb_year": "1959"
+    },
+    {
+        "title": "Eyes Without a Face (Les Yeux Sans Visage)",
+        "year": "1960",
+        "tmdb_id": 31417,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Saturday Night and Sunday Morning",
+        "year": "1960",
+        "tmdb_id": 37230,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "La Dolce Vita",
+        "year": "1960",
+        "tmdb_id": 439,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Hole (Le Trou)",
+        "year": "1960",
+        "tmdb_id": 29259,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Rocco and his Brothers (Rocco e i Suoi Fratelli)",
+        "year": "1960",
+        "tmdb_id": 8422,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Adventure (L'Avventura)",
+        "year": "1960",
+        "tmdb_id": 5165,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Breathless (A Bout de Souffle)",
+        "year": "1960",
+        "tmdb_id": 269,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Spartacus",
+        "year": "1960",
+        "tmdb_id": 967,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "tmdb_id": 284,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Housemaid (Hanyeo)",
+        "year": "1960",
+        "tmdb_id": 42506,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Cloud-Capped Star (Meghe Dhaka Tara)",
+        "year": "1960",
+        "tmdb_id": 59239,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "tmdb_id": 539,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Shoot the Piano Player (Tirez sur le Pianiste)",
+        "year": "1960",
+        "tmdb_id": 1818,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Peeping Tom",
+        "year": "1960",
+        "tmdb_id": 11167,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Black Sunday (La Maschera del Demonio / Revenge of the Vampire)",
+        "year": "1960",
+        "tmdb_id": 27632,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "The Young One (La Joven)",
+        "year": "1960",
+        "tmdb_id": 35030,
+        "tmdb_year": "1960"
+    },
+    {
+        "title": "Splendor in the Grass",
+        "year": "1961",
+        "tmdb_id": 28569,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Viridiana",
+        "year": "1961",
+        "tmdb_id": 4497,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "The Pier (La Jetée)",
+        "year": "1962",
+        "tmdb_id": 662,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Breakfast at Tiffany's",
+        "year": "1961",
+        "tmdb_id": 164,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Lola",
+        "year": "1961",
+        "tmdb_id": 40641,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "The Exiles",
+        "year": "1961",
+        "tmdb_id": 84249,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "The Night (La Notte)",
+        "year": "1961",
+        "tmdb_id": 41050,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "West Side Story",
+        "year": "1961",
+        "tmdb_id": 1725,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "The Hustler",
+        "year": "1961",
+        "tmdb_id": 990,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "The Ladies Man",
+        "year": "1961",
+        "tmdb_id": 28333,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Through a Glass Darkly (Såsom i en Spegel)",
+        "year": "1961",
+        "tmdb_id": 11602,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Chronicle of a Summer (Chronique d'un Été)",
+        "year": "1961",
+        "tmdb_id": 84972,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Last Year at Marienbad (L'Année Dernière à Marienbad)",
+        "year": "1961",
+        "tmdb_id": 4024,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "One-Eyed Jacks",
+        "year": "1961",
+        "tmdb_id": 18647,
+        "tmdb_year": "1961"
+    },
+    {
+        "title": "Cleo From 5 to 7 (Cléo de 5 à 7)",
+        "year": "1962",
+        "tmdb_id": 499,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Dog Star Man",
+        "year": "1962",
+        "tmdb_id": 85110,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "My Life to Live (Vivre sa Vie: Film en Douze Tableaux)",
+        "year": "1962",
+        "tmdb_id": 1626,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "An Autumn Afternoon (Sanma no Aji)",
+        "year": "1962",
+        "tmdb_id": 50759,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Lolita",
+        "year": "1962",
+        "tmdb_id": 802,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "The Man Who Shot Liberty Valance",
+        "year": "1962",
+        "tmdb_id": 11697,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Heaven and Earth Magic",
+        "year": "1962",
+        "tmdb_id": 85428,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "tmdb_id": 947,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "tmdb_id": 595,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Keeper of Promises (O Pagador de Promessas)",
+        "year": "1962",
+        "tmdb_id": 59990,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "The Eclipse (L'Eclisse)",
+        "year": "1962",
+        "tmdb_id": 21135,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "A Dog's Life (Mondo Cane)",
+        "year": "1962",
+        "tmdb_id": 32688,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "The Exterminating Angel (El Ángel Exterminador)",
+        "year": "1962",
+        "tmdb_id": 29264,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "Jules and Jim (Jules et Jim)",
+        "year": "1962",
+        "tmdb_id": 1628,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "The Manchurian Candidate",
+        "year": "1962",
+        "tmdb_id": 982,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "What Ever Happened to Baby Jane?",
+        "year": "1962",
+        "tmdb_id": 10242,
+        "tmdb_year": "1962"
+    },
+    {
+        "title": "8 1/2",
+        "year": "1963",
+        "tmdb_id": 422,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Birds",
+        "year": "1963",
+        "tmdb_id": 571,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Passenger (Pasazerka)",
+        "year": "1963",
+        "tmdb_id": 25939,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Servant",
+        "year": "1963",
+        "tmdb_id": 42987,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Flaming Creatures",
+        "year": "1963",
+        "tmdb_id": 47122,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The House is Black (Khaneh Siah Ast)",
+        "year": "1963",
+        "tmdb_id": 44065,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Hud",
+        "year": "1963",
+        "tmdb_id": 24748,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Leopard (Il Gattopardo)",
+        "year": "1963",
+        "tmdb_id": 1040,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Barren Lives (Vidas Secas)",
+        "year": "1963",
+        "tmdb_id": 836,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Shock Corridor",
+        "year": "1963",
+        "tmdb_id": 25504,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Contempt (Le Mépris)",
+        "year": "1963",
+        "tmdb_id": 266,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Blonde Cobra",
+        "year": "1963",
+        "tmdb_id": 85479,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Cool World",
+        "year": "1963",
+        "tmdb_id": 85521,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Nutty Professor",
+        "year": "1963",
+        "tmdb_id": 18331,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Great Escape",
+        "year": "1963",
+        "tmdb_id": 5925,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Méditerranée",
+        "year": "1963",
+        "tmdb_id": 85834,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "An Actor's Revenge (Yukinojo Henge)",
+        "year": "1963",
+        "tmdb_id": 27197,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "The Haunting",
+        "year": "1963",
+        "tmdb_id": 11772,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Winter Light (Nattvardsgästerna)",
+        "year": "1963",
+        "tmdb_id": 29455,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Goldfinger",
+        "year": "1964",
+        "tmdb_id": 658,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "My Fair Lady",
+        "year": "1964",
+        "tmdb_id": 11113,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "The Red Desert (Il Deserto Rosso)",
+        "year": "1964",
+        "tmdb_id": 26638,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Woman in the Dunes (Suna no Onna)",
+        "year": "1964",
+        "tmdb_id": 16672,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Shadows of Forgotten Ancestors (Tini Zabutykh Predkiv)",
+        "year": "1965",
+        "tmdb_id": 26782,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Scorpio Rising",
+        "year": "1964",
+        "tmdb_id": 46787,
+        "tmdb_year": "1963"
+    },
+    {
+        "title": "Marnie",
+        "year": "1964",
+        "tmdb_id": 506,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "The Masque of the Red Death",
+        "year": "1964",
+        "tmdb_id": 25319,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Before the Revolution (Prima Della Rivoluzione)",
+        "year": "1964",
+        "tmdb_id": 42788,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Dr. Strangelove, or: How I Learned to Stop Worrying and Love the Bomb",
+        "year": "1964",
+        "tmdb_id": 935,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Black God, White Devil (Deus e o Diabo na Terra do Sol)",
+        "year": "1964",
+        "tmdb_id": 67612,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "A Hard Day's Night",
+        "year": "1964",
+        "tmdb_id": 704,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)",
+        "year": "1964",
+        "tmdb_id": 5967,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Gertrud",
+        "year": "1964",
+        "tmdb_id": 34181,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "Mary Poppins",
+        "year": "1964",
+        "tmdb_id": 433,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "The Demon (Onibaba)",
+        "year": "1964",
+        "tmdb_id": 3763,
+        "tmdb_year": "1964"
+    },
+    {
+        "title": "The Gospel According to St. Matthew (Il Vangelo Secondo Matteo)",
+        "year": "1964",
+        "tmdb_id": 24192,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "The Shop on Main Street (Obchod na Korze)",
+        "year": "1965",
+        "tmdb_id": 25905,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Doctor Zhivago",
+        "year": "1965",
+        "tmdb_id": 907,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "The War Game",
+        "year": "1965",
+        "tmdb_id": 26508,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Tokyo Olympiad (Tokyo Orimpikku)",
+        "year": "1965",
+        "tmdb_id": 43618,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Juliet of the Spirits (Giuletta Degli Spiriti)",
+        "year": "1965",
+        "tmdb_id": 19120,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "The Battle of Algiers (La Battaglia di Algeri)",
+        "year": "1965",
+        "tmdb_id": 17295,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "tmdb_id": 15121,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "The Man Who Had His Hair Cut Short (De man die Zijn Haar Kort Liet Knippen)",
+        "year": "1965",
+        "tmdb_id": 86482,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Alphaville (Alphaville, une Étrange Aventure de Lemmy Caution)",
+        "year": "1965",
+        "tmdb_id": 8072,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Chimes at Midnight (Campanadas a Medianoche)",
+        "year": "1965",
+        "tmdb_id": 986,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Faster, Pussycat! Kill! Kill!",
+        "year": "1965",
+        "tmdb_id": 315,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Vinyl",
+        "year": "1965",
+        "tmdb_id": 85871,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "The Saragossa Manuscript (Rekopis Znaleziony w Saragossie)",
+        "year": "1965",
+        "tmdb_id": 8785,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Repulsion",
+        "year": "1965",
+        "tmdb_id": 11481,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Pierrot Goes Wild (Pierrot le Fou)",
+        "year": "1965",
+        "tmdb_id": 2786,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Golden River (Subarnarekha)",
+        "year": "1965",
+        "tmdb_id": 86303,
+        "tmdb_year": "1965"
+    },
+    {
+        "title": "Hold Me While I'm Naked",
+        "year": "1966",
+        "tmdb_id": 86811,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": "1966",
+        "tmdb_id": 396,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Blowup",
+        "year": "1966",
+        "tmdb_id": 1052,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Daisies (Sedmikrasky)",
+        "year": "1966",
+        "tmdb_id": 46919,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Come Drink With Me (Da Zui Xia)",
+        "year": "1966",
+        "tmdb_id": 26259,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Seconds",
+        "year": "1966",
+        "tmdb_id": 20620,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "The Good, the Bad, and the Ugly (Il Buono, il Brutto, il Cattivo)",
+        "year": "1966",
+        "tmdb_id": 429,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Persona",
+        "year": "1966",
+        "tmdb_id": 797,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Balthazar (Au Hasard Balthazar)",
+        "year": "1966",
+        "tmdb_id": 20108,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Masculine-Feminine (Masculin, Féminin)",
+        "year": "1966",
+        "tmdb_id": 4710,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Report",
+        "year": "1967",
+        "tmdb_id": 87981,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Two or Three Things I Know About Her (2 ou 3 Choses Que je Sais D'elle)",
+        "year": "1967",
+        "tmdb_id": 8074,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Belle de Jour",
+        "year": "1967",
+        "tmdb_id": 649,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": "1967",
+        "tmdb_id": 903,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Playtime",
+        "year": "1967",
+        "tmdb_id": 10227,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Red and the White (Csillagosok, Katonák)",
+        "year": "1967",
+        "tmdb_id": 52885,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Graduate",
+        "year": "1967",
+        "tmdb_id": 37247,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Point Blank",
+        "year": "1967",
+        "tmdb_id": 26039,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Young Girls of Rochefort (Les Demoiselles de Rochefort)",
+        "year": "1967",
+        "tmdb_id": 2433,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Week End",
+        "year": "1967",
+        "tmdb_id": 8075,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Godson (Le Samouraï)",
+        "year": "1967",
+        "tmdb_id": 5511,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Wavelength",
+        "year": "1967",
+        "tmdb_id": 88421,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Closely Watched Trains (Ostre Sledované Vlaky)",
+        "year": "1967",
+        "tmdb_id": 789,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "Earth Entranced (Terra em Transe)",
+        "year": "1967",
+        "tmdb_id": 67062,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "In the Heat of the Night",
+        "year": "1967",
+        "tmdb_id": 10633,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Marketa Lazarová",
+        "year": "1967",
+        "tmdb_id": 25904,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Fireman's Ball (Horí, Má Panenko)",
+        "year": "1967",
+        "tmdb_id": 38442,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Jungle Book",
+        "year": "1967",
+        "tmdb_id": 9325,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Bonnie and Clyde",
+        "year": "1967",
+        "tmdb_id": 475,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Viy",
+        "year": "1967",
+        "tmdb_id": 57230,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Hombre",
+        "year": "1967",
+        "tmdb_id": 27945,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "The Cow (Gaav)",
+        "year": "1969",
+        "tmdb_id": 43984,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Once Upon a Time in the West (C'era una Volta il West)",
+        "year": "1968",
+        "tmdb_id": 335,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Faces",
+        "year": "1968",
+        "tmdb_id": 753,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Planet of the Apes",
+        "year": "1968",
+        "tmdb_id": 871,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Rosemary's Baby",
+        "year": "1968",
+        "tmdb_id": 805,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "If...",
+        "year": "1968",
+        "tmdb_id": 14794,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "David Holzman's Diary",
+        "year": "1968",
+        "tmdb_id": 85535,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Memories of Underdevelopment (Memorias del Subdesarrollo)",
+        "year": "1968",
+        "tmdb_id": 47576,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "High School",
+        "year": "1968",
+        "tmdb_id": 60315,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Hour of the Wolf (Vargtimmen)",
+        "year": "1968",
+        "tmdb_id": 18333,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "tmdb_id": 62,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Night of the Living Dead",
+        "year": "1968",
+        "tmdb_id": 10331,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Targets",
+        "year": "1968",
+        "tmdb_id": 19383,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "Shame (Skammen)",
+        "year": "1968",
+        "tmdb_id": 26372,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "The Producers",
+        "year": "1968",
+        "tmdb_id": 30197,
+        "tmdb_year": "1967"
+    },
+    {
+        "title": "Z",
+        "year": "1969",
+        "tmdb_id": 2721,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Fellini Satyricon",
+        "year": "1969",
+        "tmdb_id": 11163,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Andrei Rublev (Andrei Rublyov)",
+        "year": "1966",
+        "tmdb_id": 895,
+        "tmdb_year": "1966"
+    },
+    {
+        "title": "The Color of Pomengranates (Sayat Nova)",
+        "year": "1968",
+        "tmdb_id": 26302,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Midnight Cowboy",
+        "year": "1969",
+        "tmdb_id": 3116,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "year": "1969",
+        "tmdb_id": 642,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "A Touch of Zen (Hsia Nu)",
+        "year": "1969",
+        "tmdb_id": 44154,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Easy Rider",
+        "year": "1969",
+        "tmdb_id": 624,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Kes",
+        "year": "1969",
+        "tmdb_id": 13384,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Lucía",
+        "year": "1969",
+        "tmdb_id": 88591,
+        "tmdb_year": "1968"
+    },
+    {
+        "title": "In the Year of the Pig",
+        "year": "1969",
+        "tmdb_id": 63951,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "The Wild Bunch",
+        "year": "1969",
+        "tmdb_id": 576,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "My Night at Maud's (Ma Nuit Chez Maud)",
+        "year": "1969",
+        "tmdb_id": 48831,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Tristana",
+        "year": "1970",
+        "tmdb_id": 35838,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "The Conformist (Il Conformista)",
+        "year": "1970",
+        "tmdb_id": 8416,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "The Butcher (Le Boucher)",
+        "year": "1970",
+        "tmdb_id": 2912,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "El Topo",
+        "year": "1970",
+        "tmdb_id": 13041,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Five Easy Pieces",
+        "year": "1970",
+        "tmdb_id": 26617,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Deep End",
+        "year": "1970",
+        "tmdb_id": 59408,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The Spider's Stratagem (La Strategia del Ragno)",
+        "year": "1970",
+        "tmdb_id": 42595,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "The Ear (Ucho)",
+        "year": "1970",
+        "tmdb_id": 88953,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Little Big Man",
+        "year": "1970",
+        "tmdb_id": 11040,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Patton",
+        "year": "1970",
+        "tmdb_id": 11202,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "The Bird with the Crystal Plumage (L'uccello Dalle Piume de Cristallo)",
+        "year": "1970",
+        "tmdb_id": 20345,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "M*A*S*H",
+        "year": "1970",
+        "tmdb_id": 651,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Zabriskie Point",
+        "year": "1970",
+        "tmdb_id": 2998,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Performance",
+        "year": "1970",
+        "tmdb_id": 26606,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Woodstock",
+        "year": "1970",
+        "tmdb_id": 9459,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Gimme Shelter",
+        "year": "1970",
+        "tmdb_id": 132,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini)",
+        "year": "1970",
+        "tmdb_id": 4789,
+        "tmdb_year": "1970"
+    },
+    {
+        "title": "Dirty Harry",
+        "year": "1971",
+        "tmdb_id": 984,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "tmdb_id": 185,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "McCabe and Mrs. Miller",
+        "year": "1971",
+        "tmdb_id": 29005,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The Sorrow and the Pity (La Chagrin et la Pitié)",
+        "year": "1971",
+        "tmdb_id": 42611,
+        "tmdb_year": "1969"
+    },
+    {
+        "title": "Willy Wonka and the Chocolate Factory",
+        "year": "1971",
+        "tmdb_id": 252,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The Devils",
+        "year": "1971",
+        "tmdb_id": 31767,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The Hired Hand",
+        "year": "1971",
+        "tmdb_id": 42522,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "W.R.: Mysteries of the Organism (W.R.: Misterije Organizma)",
+        "year": "1971",
+        "tmdb_id": 42529,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Walkabout",
+        "year": "1971",
+        "tmdb_id": 36040,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Klute",
+        "year": "1971",
+        "tmdb_id": 466,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Harold and Maude",
+        "year": "1971",
+        "tmdb_id": 343,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The French Connection",
+        "year": "1971",
+        "tmdb_id": 1051,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Red Psalm (Még Kér a Nép)",
+        "year": "1972",
+        "tmdb_id": 86732,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Get Carter",
+        "year": "1971",
+        "tmdb_id": 1485,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Shaft",
+        "year": "1971",
+        "tmdb_id": 482,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Sweet Sweetback's Baadasssss Song",
+        "year": "1971",
+        "tmdb_id": 5822,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "The Last Picture Show",
+        "year": "1971",
+        "tmdb_id": 25188,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Wanda",
+        "year": "1971",
+        "tmdb_id": 80560,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Murmur of the Heart (Le Souffle au Coeur)",
+        "year": "1971",
+        "tmdb_id": 42501,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Straw Dogs",
+        "year": "1971",
+        "tmdb_id": 994,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Two-Lane Blacktop",
+        "year": "1971",
+        "tmdb_id": 27236,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Wake in Fright",
+        "year": "1971",
+        "tmdb_id": 26405,
+        "tmdb_year": "1971"
+    },
+    {
+        "title": "Deliverance",
+        "year": "1972",
+        "tmdb_id": 10669,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Aguirre, the Wrath of God (Aguirre, der Zorn Gottes)",
+        "year": "1972",
+        "tmdb_id": 2000,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Cabaret",
+        "year": "1972",
+        "tmdb_id": 10784,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Solaris (Solyaris)",
+        "year": "1972",
+        "tmdb_id": 593,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Cries and Whispers (Viskingar och Rop)",
+        "year": "1972",
+        "tmdb_id": 10238,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "The Discreet Charm of the Bourgeoisie (Le Charme Discret de la Bourgeoisie)",
+        "year": "1972",
+        "tmdb_id": 4593,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "tmdb_id": 238,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Last Tango in Paris (Ultimo Tango a Parigi)",
+        "year": "1972",
+        "tmdb_id": 1643,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "The Bitter Tears of Petra Von Kant (Die Bitteren Tränen der Petra Von Kant)",
+        "year": "1972",
+        "tmdb_id": 10310,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Fat City",
+        "year": "1972",
+        "tmdb_id": 16993,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "The Heartbreak Kid",
+        "year": "1972",
+        "tmdb_id": 40687,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Frenzy",
+        "year": "1972",
+        "tmdb_id": 573,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Pink Flamingos",
+        "year": "1972",
+        "tmdb_id": 692,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Sleuth",
+        "year": "1972",
+        "tmdb_id": 993,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Superfly",
+        "year": "1972",
+        "tmdb_id": 21968,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "The Sting",
+        "year": "1973",
+        "tmdb_id": 9277,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Mother and the Whore (La Maman et la Putain)",
+        "year": "1973",
+        "tmdb_id": 48693,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "High Plains Drifter",
+        "year": "1973",
+        "tmdb_id": 11901,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Badlands",
+        "year": "1973",
+        "tmdb_id": 3133,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "American Graffiti",
+        "year": "1973",
+        "tmdb_id": 838,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Papillon",
+        "year": "1973",
+        "tmdb_id": 5924,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Long Goodbye",
+        "year": "1973",
+        "tmdb_id": 1847,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Wicker Man",
+        "year": "1973",
+        "tmdb_id": 16307,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Enter the Dragon",
+        "year": "1973",
+        "tmdb_id": 9461,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Serpico",
+        "year": "1973",
+        "tmdb_id": 9040,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Don't Look Now",
+        "year": "1973",
+        "tmdb_id": 931,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Day for Night (La Nuit Américaine)",
+        "year": "1973",
+        "tmdb_id": 1675,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Mean Streets",
+        "year": "1973",
+        "tmdb_id": 203,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Sleeper",
+        "year": "1973",
+        "tmdb_id": 11561,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Exorcist",
+        "year": "1973",
+        "tmdb_id": 9552,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "F for Fake (Vérités et Mensonges)",
+        "year": "1973",
+        "tmdb_id": 43003,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Pat Garrett and Billy the Kid",
+        "year": "1973",
+        "tmdb_id": 11577,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Turkish Delight (Turks Fruit)",
+        "year": "1973",
+        "tmdb_id": 21035,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Spirit of the Beehive (El Espíritu de la Colmena)",
+        "year": "1973",
+        "tmdb_id": 4495,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Harder They Come",
+        "year": "1973",
+        "tmdb_id": 7514,
+        "tmdb_year": "1972"
+    },
+    {
+        "title": "Fantastic Planet (La Planéte Sauvage)",
+        "year": "1973",
+        "tmdb_id": 16306,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "Amarcord",
+        "year": "1973",
+        "tmdb_id": 7857,
+        "tmdb_year": "1973"
+    },
+    {
+        "title": "The Towering Inferno",
+        "year": "1974",
+        "tmdb_id": 5919,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Bring Me the Head of Alfredo Garcia",
+        "year": "1974",
+        "tmdb_id": 11942,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Dersu Uzala",
+        "year": "1975",
+        "tmdb_id": 9764,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "year": "1974",
+        "tmdb_id": 240,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "The Conversation",
+        "year": "1974",
+        "tmdb_id": 592,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "The Mirror (Zerkalo)",
+        "year": "1974",
+        "tmdb_id": 1396,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "tmdb_id": 829,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "A Woman Under the Influence",
+        "year": "1974",
+        "tmdb_id": 29845,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Young Frankenstein",
+        "year": "1974",
+        "tmdb_id": 3034,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "The Texas Chain Saw Massacre",
+        "year": "1974",
+        "tmdb_id": 30497,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Blazing Saddles",
+        "year": "1974",
+        "tmdb_id": 11072,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Celine and Julie Go Boating (Céline et Julie Vont en Bateau)",
+        "year": "1974",
+        "tmdb_id": 27019,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Ali: Fear Eats the Soul (Angst Essen Seele Auf)",
+        "year": "1974",
+        "tmdb_id": 216,
+        "tmdb_year": "1974"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "tmdb_id": 3175,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "The Rocky Horror Picture Show",
+        "year": "1975",
+        "tmdb_id": 36685,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",
+        "year": "1975",
+        "tmdb_id": 44012,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "The Travelling Players (O Thiassos)",
+        "year": "1975",
+        "tmdb_id": 689,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "tmdb_id": 762,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "The Wall (Deewaar)",
+        "year": "1975",
+        "tmdb_id": 22460,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Dog Day Afternoon",
+        "year": "1975",
+        "tmdb_id": 968,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "tmdb_id": 510,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Manila in the Claws of Brightness (Maynila: sa Mga Kuko Ng Liwanag)",
+        "year": "1975",
+        "tmdb_id": 70580,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Fox and his Friends (Faustrecht der Freiheit)",
+        "year": "1975",
+        "tmdb_id": 42254,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Nashville",
+        "year": "1975",
+        "tmdb_id": 3121,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Salo, or the 120 Days of Sodom (Salò o le Centoventi Giornate di Sodoma)",
+        "year": "1975",
+        "tmdb_id": 5336,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Cria! (Cría Cuervos)",
+        "year": "1975",
+        "tmdb_id": 51857,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Picnic at Hanging Rock",
+        "year": "1975",
+        "tmdb_id": 11020,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "India Song",
+        "year": "1975",
+        "tmdb_id": 85927,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "Jaws",
+        "year": "1975",
+        "tmdb_id": 578,
+        "tmdb_year": "1975"
+    },
+    {
+        "title": "The Man Who Fell to Earth",
+        "year": "1976",
+        "tmdb_id": 991,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "All the President's Men",
+        "year": "1976",
+        "tmdb_id": 891,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "The Outlaw Josey Wales",
+        "year": "1976",
+        "tmdb_id": 10747,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "The Killing of a Chinese Bookie",
+        "year": "1976",
+        "tmdb_id": 32040,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "tmdb_id": 10774,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Carrie",
+        "year": "1976",
+        "tmdb_id": 7340,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "1976",
+        "tmdb_id": 103,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "tmdb_id": 1366,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "In the Realm of the Senses (Ai no Corrida)",
+        "year": "1976",
+        "tmdb_id": 5879,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "1900 (Novecento)",
+        "year": "1976",
+        "tmdb_id": 3870,
+        "tmdb_year": "1976"
+    },
+    {
+        "title": "Ascent (Voskhozhdeniye)",
+        "year": "1977",
+        "tmdb_id": 50183,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "year": "1977",
+        "tmdb_id": 840,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "The Last Wave",
+        "year": "1977",
+        "tmdb_id": 72277,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Star Wars",
+        "year": "1977",
+        "tmdb_id": 11,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Stroszek",
+        "year": "1977",
+        "tmdb_id": 11698,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Ceddo",
+        "year": "1977",
+        "tmdb_id": 97029,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "The American Friend (Der Amerikanische Freund)",
+        "year": "1977",
+        "tmdb_id": 11222,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Annie Hall",
+        "year": "1977",
+        "tmdb_id": 703,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Suspiria",
+        "year": "1977",
+        "tmdb_id": 11906,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Sleeping Dogs",
+        "year": "1977",
+        "tmdb_id": 37582,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Last Chants for a Slow Dance",
+        "year": "1977",
+        "tmdb_id": 97030,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Man of Marble (Czlowiek z Marmuru)",
+        "year": "1977",
+        "tmdb_id": 224,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Saturday Night Fever",
+        "year": "1977",
+        "tmdb_id": 11009,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Killer of Sheep",
+        "year": "1977",
+        "tmdb_id": 27432,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Eraserhead",
+        "year": "1977",
+        "tmdb_id": 985,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Soldier of Orange (Soldaat van Oranje)",
+        "year": "1977",
+        "tmdb_id": 633,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "The Hills Have Eyes",
+        "year": "1977",
+        "tmdb_id": 12262,
+        "tmdb_year": "1977"
+    },
+    {
+        "title": "Days of Heaven",
+        "year": "1978",
+        "tmdb_id": 16642,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Halloween",
+        "year": "1978",
+        "tmdb_id": 948,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "The Tree of Wooden Clogs (L'albero Degli Zoccoli)",
+        "year": "1978",
+        "tmdb_id": 31542,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "The Chant of Jimmie Blacksmith",
+        "year": "1978",
+        "tmdb_id": 69069,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "tmdb_id": 11778,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Dawn of the Dead",
+        "year": "1978",
+        "tmdb_id": 923,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Up in Smoke",
+        "year": "1978",
+        "tmdb_id": 11455,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Grease",
+        "year": "1978",
+        "tmdb_id": 621,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Shaolin Master Killer (Shao Lin San Shi Liu Fang)",
+        "year": "1978",
+        "tmdb_id": 11841,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "Five Deadly Venoms (Wu Du)",
+        "year": "1978",
+        "tmdb_id": 13481,
+        "tmdb_year": "1978"
+    },
+    {
+        "title": "My Brilliant Career",
+        "year": "1979",
+        "tmdb_id": 16659,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "The Marriage of Maria Braun (Die Ehe der Maria Braun)",
+        "year": "1979",
+        "tmdb_id": 661,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Nosferatu: Phantom of the Night (Nosferatu: Phantom der Nacht)",
+        "year": "1979",
+        "tmdb_id": 6404,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Stalker",
+        "year": "1979",
+        "tmdb_id": 1398,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Life of Brian",
+        "year": "1979",
+        "tmdb_id": 583,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Real Life",
+        "year": "1979",
+        "tmdb_id": 33250,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Breaking Away",
+        "year": "1979",
+        "tmdb_id": 20283,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "tmdb_id": 348,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Being There",
+        "year": "1979",
+        "tmdb_id": 10322,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Manhattan",
+        "year": "1979",
+        "tmdb_id": 696,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "tmdb_id": 28,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "All That Jazz",
+        "year": "1979",
+        "tmdb_id": 16858,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "The Muppet Movie",
+        "year": "1979",
+        "tmdb_id": 11176,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Christ Stopped at Eboli (Cristo si è Fermato a Eboli)",
+        "year": "1979",
+        "tmdb_id": 42169,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Mad Max",
+        "year": "1979",
+        "tmdb_id": 9659,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "The Tin Drum (Die Blechtrommel)",
+        "year": "1979",
+        "tmdb_id": 659,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "The Jerk",
+        "year": "1979",
+        "tmdb_id": 6471,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Kramer vs. Kramer",
+        "year": "1979",
+        "tmdb_id": 12102,
+        "tmdb_year": "1979"
+    },
+    {
+        "title": "Ordinary People",
+        "year": "1980",
+        "tmdb_id": 16619,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "tmdb_id": 1891,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "Atlantic City",
+        "year": "1980",
+        "tmdb_id": 23954,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "The Last Metro (Le Dernier Métro)",
+        "year": "1980",
+        "tmdb_id": 1716,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "tmdb_id": 694,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "tmdb_id": 1955,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "The Big Red One",
+        "year": "1980",
+        "tmdb_id": 16121,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "Loulou",
+        "year": "1980",
+        "tmdb_id": 39415,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "tmdb_id": 1578,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "Airplane!",
+        "year": "1980",
+        "tmdb_id": 813,
+        "tmdb_year": "1980"
+    },
+    {
+        "title": "An American Werewolf in London",
+        "year": "1981",
+        "tmdb_id": 814,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Diva",
+        "year": "1981",
+        "tmdb_id": 4485,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "tmdb_id": 85,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "The Boat (Das Boot)",
+        "year": "1981",
+        "tmdb_id": 387,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Gallipoli",
+        "year": "1981",
+        "tmdb_id": 11646,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Chariots of Fire",
+        "year": "1981",
+        "tmdb_id": 9443,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Body Heat",
+        "year": "1981",
+        "tmdb_id": 14412,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Man of Iron (Czlowiek z Zelaza)",
+        "year": "1981",
+        "tmdb_id": 225,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Reds",
+        "year": "1981",
+        "tmdb_id": 18254,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Three Brothers (Tre Fratelli)",
+        "year": "1981",
+        "tmdb_id": 42150,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "E.T.: The Extra-Terrestrial",
+        "year": "1982",
+        "tmdb_id": 601,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "The Evil Dead",
+        "year": "1982",
+        "tmdb_id": 764,
+        "tmdb_year": "1981"
+    },
+    {
+        "title": "Fast Times at Ridgemont High",
+        "year": "1982",
+        "tmdb_id": 13342,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Too Early, Too Late (Zu Früh, Zu Spät / Trop Tôt, Trop Tard)",
+        "year": "1982",
+        "tmdb_id": 97032,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Poltergeist",
+        "year": "1982",
+        "tmdb_id": 609,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Yol",
+        "year": "1982",
+        "tmdb_id": 52556,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "tmdb_id": 78,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Diner",
+        "year": "1982",
+        "tmdb_id": 13776,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Tootsie",
+        "year": "1982",
+        "tmdb_id": 9576,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Fitzcarraldo",
+        "year": "1982",
+        "tmdb_id": 9343,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Gandhi",
+        "year": "1982",
+        "tmdb_id": 783,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "tmdb_id": 1091,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Fanny and Alexander (Fanny och Alexander)",
+        "year": "1982",
+        "tmdb_id": 5961,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "The Night of the Shooting Stars (La Notte di San Lorenzo)",
+        "year": "1982",
+        "tmdb_id": 42130,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "A Question of Silence (De Stilte Rond Christine M.)",
+        "year": "1982",
+        "tmdb_id": 96529,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "The Draughtsman's Contract",
+        "year": "1982",
+        "tmdb_id": 10831,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "A Christmas Story",
+        "year": "1983",
+        "tmdb_id": 850,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Money (L'Argent)",
+        "year": "1983",
+        "tmdb_id": 42112,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The Right Stuff",
+        "year": "1983",
+        "tmdb_id": 9549,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The Big Chill",
+        "year": "1983",
+        "tmdb_id": 12560,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Sunless (Sans Soleil)",
+        "year": "1983",
+        "tmdb_id": 1563,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "tmdb_id": 1892,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The Ballad of Narayama (Narayama Bushi-ko)",
+        "year": "1983",
+        "tmdb_id": 42113,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Terms of Endearment",
+        "year": "1983",
+        "tmdb_id": 11050,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "El Norte",
+        "year": "1983",
+        "tmdb_id": 17435,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The Fourth Man (De Vierde Man)",
+        "year": "1983",
+        "tmdb_id": 29140,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Videodrome",
+        "year": "1983",
+        "tmdb_id": 837,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Koyaanisqatsi",
+        "year": "1983",
+        "tmdb_id": 11314,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "tmdb_id": 111,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The King of Comedy",
+        "year": "1983",
+        "tmdb_id": 262,
+        "tmdb_year": "1982"
+    },
+    {
+        "title": "Local Hero",
+        "year": "1983",
+        "tmdb_id": 11235,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1983",
+        "tmdb_id": 311,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "The Last Battle (Le Dernier Combat)",
+        "year": "1983",
+        "tmdb_id": 19184,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "The Terminator",
+        "year": "1984",
+        "tmdb_id": 218,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "The Natural",
+        "year": "1984",
+        "tmdb_id": 11393,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Ghostbusters",
+        "year": "1984",
+        "tmdb_id": 620,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Paris, Texas",
+        "year": "1984",
+        "tmdb_id": 655,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "A Nightmare on Elm Street",
+        "year": "1984",
+        "tmdb_id": 377,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "This is Spinal Tap",
+        "year": "1984",
+        "tmdb_id": 11031,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "A Passage to India",
+        "year": "1984",
+        "tmdb_id": 15927,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Beverly Hills Cop",
+        "year": "1984",
+        "tmdb_id": 90,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "The Killing Fields",
+        "year": "1984",
+        "tmdb_id": 625,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Stranger than Paradise",
+        "year": "1984",
+        "tmdb_id": 469,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "tmdb_id": 279,
+        "tmdb_year": "1984"
+    },
+    {
+        "title": "Utu",
+        "year": "1984",
+        "tmdb_id": 42123,
+        "tmdb_year": "1983"
+    },
+    {
+        "title": "Prizzi's Honor",
+        "year": "1985",
+        "tmdb_id": 2075,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Time to Live and the Time to Die (Tong Nien Wang Shi)",
+        "year": "1985",
+        "tmdb_id": 45999,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Breakfast Club",
+        "year": "1985",
+        "tmdb_id": 2108,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Come and See (Idi i Smotri)",
+        "year": "1985",
+        "tmdb_id": 25237,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Mishima: A Life in Four Chapters",
+        "year": "1985",
+        "tmdb_id": 27064,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Out of Africa",
+        "year": "1985",
+        "tmdb_id": 606,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "tmdb_id": 11645,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "tmdb_id": 105,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Brazil",
+        "year": "1985",
+        "tmdb_id": 68,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Kiss of the Spider Woman",
+        "year": "1985",
+        "tmdb_id": 11703,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Quiet Earth",
+        "year": "1985",
+        "tmdb_id": 10176,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Purple Rose of Cairo",
+        "year": "1985",
+        "tmdb_id": 10849,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Vagabond (Sans Toit ni Loi)",
+        "year": "1985",
+        "tmdb_id": 44018,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Shoah",
+        "year": "1985",
+        "tmdb_id": 42044,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Color Purple",
+        "year": "1985",
+        "tmdb_id": 873,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "A Room with a View",
+        "year": "1985",
+        "tmdb_id": 11257,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Official Story (La Historia Oficial)",
+        "year": "1985",
+        "tmdb_id": 29263,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Manhunter",
+        "year": "1986",
+        "tmdb_id": 11454,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Blue Velvet",
+        "year": "1986",
+        "tmdb_id": 793,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Hannah and Her Sisters",
+        "year": "1986",
+        "tmdb_id": 5143,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "She's Gotta Have It",
+        "year": "1986",
+        "tmdb_id": 27995,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Children of a Lesser God",
+        "year": "1986",
+        "tmdb_id": 1890,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Caravaggio",
+        "year": "1986",
+        "tmdb_id": 20537,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Salvador",
+        "year": "1986",
+        "tmdb_id": 6106,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "tmdb_id": 792,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Down By Law",
+        "year": "1986",
+        "tmdb_id": 1554,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "The Decline of the American Empire (Le Déclin de l'Empire Américain)",
+        "year": "1986",
+        "tmdb_id": 18499,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Peking Opera Blues (Do Ma Daan)",
+        "year": "1986",
+        "tmdb_id": 39776,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "tmdb_id": 679,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Ferris Bueller's Day Off",
+        "year": "1986",
+        "tmdb_id": 9377,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "The Fly",
+        "year": "1986",
+        "tmdb_id": 9426,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Top Gun",
+        "year": "1986",
+        "tmdb_id": 744,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Sherman's March",
+        "year": "1986",
+        "tmdb_id": 41480,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "Stand By Me",
+        "year": "1986",
+        "tmdb_id": 235,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Tampopo",
+        "year": "1985",
+        "tmdb_id": 11830,
+        "tmdb_year": "1985"
+    },
+    {
+        "title": "The Horse Thief (Dao Ma Zei)",
+        "year": "1986",
+        "tmdb_id": 42018,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Goodbye Children (Au Revoir les Enfants)",
+        "year": "1987",
+        "tmdb_id": 1786,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Raising Arizona",
+        "year": "1987",
+        "tmdb_id": 378,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Brightness (Yeelen)",
+        "year": "1987",
+        "tmdb_id": 71329,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Project A, Part II ('A' Gai Waak Juk Jaap)",
+        "year": "1987",
+        "tmdb_id": 21521,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Wings of Desire (Der Himmel Über Berlin)",
+        "year": "1987",
+        "tmdb_id": 144,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Withnail and I",
+        "year": "1987",
+        "tmdb_id": 13446,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "The Princess Bride",
+        "year": "1987",
+        "tmdb_id": 2493,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "A Chinese Ghost Story (Sinnui Yauman)",
+        "year": "1987",
+        "tmdb_id": 30421,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "tmdb_id": 600,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Broadcast News",
+        "year": "1987",
+        "tmdb_id": 12626,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Babette's Feast (Babbetes Gaestebud)",
+        "year": "1987",
+        "tmdb_id": 11832,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Good Morning, Vietnam",
+        "year": "1987",
+        "tmdb_id": 801,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Moonstruck",
+        "year": "1987",
+        "tmdb_id": 2039,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Wall Street",
+        "year": "1987",
+        "tmdb_id": 10673,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "The Untouchables",
+        "year": "1987",
+        "tmdb_id": 117,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Red Sorghum (Hong Gao Liang)",
+        "year": "1987",
+        "tmdb_id": 42006,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Fatal Attraction",
+        "year": "1987",
+        "tmdb_id": 10998,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "The Dead",
+        "year": "1987",
+        "tmdb_id": 39507,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Housekeeping",
+        "year": "1987",
+        "tmdb_id": 65501,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Bull Durham",
+        "year": "1988",
+        "tmdb_id": 287,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Hotel Terminus: The Life and Times of Klaus Barbie (Hôtel Terminus: Klaus Barbie et Son Temps)",
+        "year": "1988",
+        "tmdb_id": 41954,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Women on the Verge of a Nervous Breakdown (Mujeres al Borde de un Ataque de Nervios)",
+        "year": "1988",
+        "tmdb_id": 4203,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Vanishing (Spoorloos)",
+        "year": "1988",
+        "tmdb_id": 8740,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Alice (Neco z Alenky)",
+        "year": "1988",
+        "tmdb_id": 18917,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Ariel",
+        "year": "1988",
+        "tmdb_id": 2,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Thin Blue Line",
+        "year": "1988",
+        "tmdb_id": 14285,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Akira",
+        "year": "1988",
+        "tmdb_id": 149,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "A Fish Called Wanda",
+        "year": "1988",
+        "tmdb_id": 623,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "A Tale of the Wind (Une Histoire de Vent)",
+        "year": "1988",
+        "tmdb_id": 97035,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Naked Gun",
+        "year": "1988",
+        "tmdb_id": 37136,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Cinema Paradiso (Nuovo Cinema Paradiso)",
+        "year": "1988",
+        "tmdb_id": 11216,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Grave of the Fireflies (Hotaru no Haka)",
+        "year": "1988",
+        "tmdb_id": 12477,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Big",
+        "year": "1988",
+        "tmdb_id": 2280,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Who Framed Roger Rabbit?",
+        "year": "1988",
+        "tmdb_id": 856,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Decalogue (Dekalog)",
+        "year": "1988",
+        "tmdb_id": [
+            118662,
+            51108,
+            118663,
+            51110,
+            118665,
+            118667,
+            118668,
+            51111,
+            118669,
+            118670
+        ],
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Rain Man",
+        "year": "1988",
+        "tmdb_id": 380,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Die Hard",
+        "year": "1988",
+        "tmdb_id": 562,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Dangerous Liaisons",
+        "year": "1988",
+        "tmdb_id": 859,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Dead Ringers",
+        "year": "1988",
+        "tmdb_id": 9540,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "RoboCop",
+        "year": "1987",
+        "tmdb_id": 5548,
+        "tmdb_year": "1987"
+    },
+    {
+        "title": "Distant Voices, Still Lives",
+        "year": "1988",
+        "tmdb_id": 41799,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Landscape in the Mist (Topio Stin Omichli)",
+        "year": "1988",
+        "tmdb_id": 47795,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Story of Women (Une Affaire de Femmes)",
+        "year": "1988",
+        "tmdb_id": 41975,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "The Accidental Tourist",
+        "year": "1988",
+        "tmdb_id": 31052,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "Drowning By Numbers",
+        "year": "1988",
+        "tmdb_id": 27362,
+        "tmdb_year": "1988"
+    },
+    {
+        "title": "When Harry Met Sally",
+        "year": "1989",
+        "tmdb_id": 639,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Crimes and Misdemeanors",
+        "year": "1989",
+        "tmdb_id": 11562,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Batman",
+        "year": "1989",
+        "tmdb_id": 268,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Field of Dreams",
+        "year": "1989",
+        "tmdb_id": 2323,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Glory",
+        "year": "1989",
+        "tmdb_id": 9665,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "The Cook, the Thief, His Wife, & Her Lover",
+        "year": "1989",
+        "tmdb_id": 7452,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "My Left Foot",
+        "year": "1989",
+        "tmdb_id": 10161,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "The Killer (Die Xue Shuang Xiong)",
+        "year": "1989",
+        "tmdb_id": 10835,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Drugstore Cowboy",
+        "year": "1989",
+        "tmdb_id": 476,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "The Asthenic Syndrome (Astenicheskij Sindrom)",
+        "year": "1989",
+        "tmdb_id": 97039,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Do the Right Thing",
+        "year": "1989",
+        "tmdb_id": 925,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "The Unbelievable Truth",
+        "year": "1989",
+        "tmdb_id": 38545,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Roger & Me",
+        "year": "1989",
+        "tmdb_id": 1779,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Sex, Lies, and Videotape",
+        "year": "1989",
+        "tmdb_id": 1412,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "A City of Sadness (Beiqing Chengshi)",
+        "year": "1989",
+        "tmdb_id": 49982,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Say Anything",
+        "year": "1989",
+        "tmdb_id": 2028,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Trust",
+        "year": "1990",
+        "tmdb_id": 37291,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "No Fear, No Die (S'en Fout la Mort)",
+        "year": "1990",
+        "tmdb_id": 97041,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "tmdb_id": 769,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Close-Up (Nema-ye Nazdik)",
+        "year": "1990",
+        "tmdb_id": 30017,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "King of New York",
+        "year": "1990",
+        "tmdb_id": 9558,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Pretty Woman",
+        "year": "1990",
+        "tmdb_id": 114,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "tmdb_id": 581,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Henry: Portrait of a Serial Killer",
+        "year": "1990",
+        "tmdb_id": 10692,
+        "tmdb_year": "1986"
+    },
+    {
+        "title": "Archangel",
+        "year": "1990",
+        "tmdb_id": 85559,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Total Recall",
+        "year": "1990",
+        "tmdb_id": 861,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Edward Scissorhands",
+        "year": "1990",
+        "tmdb_id": 162,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Europa Europa (Hitlerjunge Salomon)",
+        "year": "1990",
+        "tmdb_id": 8996,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Reversal of Fortune",
+        "year": "1990",
+        "tmdb_id": 38718,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Jacob's Ladder",
+        "year": "1990",
+        "tmdb_id": 2291,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Boyz 'N the Hood",
+        "year": "1991",
+        "tmdb_id": 650,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "The Beautiful Troublemaker (La Belle Noiseuse)",
+        "year": "1991",
+        "tmdb_id": 12627,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "The Rapture",
+        "year": "1991",
+        "tmdb_id": 1411,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "A Brighter Summer Day (Guling Jie Shaonian Sha Ren Shijian)",
+        "year": "1991",
+        "tmdb_id": 15804,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "JFK",
+        "year": "1991",
+        "tmdb_id": 820,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Slacker",
+        "year": "1991",
+        "tmdb_id": 14022,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Once Upon a Time in China (Wong Fei-Hung)",
+        "year": "1991",
+        "tmdb_id": 10617,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Thelma & Louise",
+        "year": "1991",
+        "tmdb_id": 1541,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "My Own Private Idaho",
+        "year": "1991",
+        "tmdb_id": 468,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "tmdb_id": 274,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "tmdb_id": 280,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Delicatessen",
+        "year": "1991",
+        "tmdb_id": 892,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "The Double Life of Veronique (La Double Vie de Véronique)",
+        "year": "1991",
+        "tmdb_id": 1600,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Tongues Untied",
+        "year": "1989",
+        "tmdb_id": 97049,
+        "tmdb_year": "1990"
+    },
+    {
+        "title": "Raise the Red Lantern (Da Hong Deng Long Gao Gao Gua)",
+        "year": "1991",
+        "tmdb_id": 10404,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+        "year": "1991",
+        "tmdb_id": 4539,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Naked Lunch",
+        "year": "1991",
+        "tmdb_id": 2742,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Romper Stomper",
+        "year": "1992",
+        "tmdb_id": 10412,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Strictly Ballroom",
+        "year": "1992",
+        "tmdb_id": 10409,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "The Player",
+        "year": "1992",
+        "tmdb_id": 10403,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "tmdb_id": 500,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Glengarry Glen Ross",
+        "year": "1992",
+        "tmdb_id": 9504,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "A Tale of Winter (Conte D'hiver)",
+        "year": "1992",
+        "tmdb_id": 10241,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "tmdb_id": 33,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "The Actress (Yuen Ling-Yuk)",
+        "year": "1992",
+        "tmdb_id": 68004,
+        "tmdb_year": "1991"
+    },
+    {
+        "title": "Man Bites Dog (C'est Arrivé Près de Chez Vous)",
+        "year": "1992",
+        "tmdb_id": 10086,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "The Crying Game",
+        "year": "1992",
+        "tmdb_id": 11386,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Bram Stoker's Dracula",
+        "year": "1992",
+        "tmdb_id": 6114,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Candyman",
+        "year": "1992",
+        "tmdb_id": 9529,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "Aileen Wuornos: The Selling of a Serial Killer",
+        "year": "1992",
+        "tmdb_id": 97044,
+        "tmdb_year": "1992"
+    },
+    {
+        "title": "The Blue Kite (Lan Feng Zheng)",
+        "year": "1993",
+        "tmdb_id": 44162,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Philadelphia",
+        "year": "1993",
+        "tmdb_id": 9800,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "The Puppetmaster (Hsimeng Jensheng)",
+        "year": "1993",
+        "tmdb_id": 96712,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Short Cuts",
+        "year": "1993",
+        "tmdb_id": 695,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "tmdb_id": 424,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Three Colors: Blue (Trois Couleurs: Bleu)",
+        "year": "1993",
+        "tmdb_id": 108,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Farewell My Concubine (Ba Wang Bie Ji)",
+        "year": "1993",
+        "tmdb_id": 10997,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "tmdb_id": 137,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "The Piano",
+        "year": "1993",
+        "tmdb_id": 713,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "The Wedding Banquet (Hsi Yen)",
+        "year": "1993",
+        "tmdb_id": 9261,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Thirty Two Short Films About Glenn Gould",
+        "year": "1993",
+        "tmdb_id": 20967,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "tmdb_id": 329,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "The Age of Innocence",
+        "year": "1993",
+        "tmdb_id": 10436,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "tmdb_id": 8587,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "The Last Seduction",
+        "year": "1994",
+        "tmdb_id": 25284,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "The Wild Reeds (Les Roseaux Sauvages)",
+        "year": "1994",
+        "tmdb_id": 26933,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Crumb",
+        "year": "1994",
+        "tmdb_id": 26564,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Heavenly Creatures",
+        "year": "1994",
+        "tmdb_id": 1024,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "tmdb_id": 680,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Three Colors: Red (Trois Couleurs: Rouge)",
+        "year": "1994",
+        "tmdb_id": 110,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Natural Born Killers",
+        "year": "1994",
+        "tmdb_id": 241,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Muriel's Wedding",
+        "year": "1994",
+        "tmdb_id": 236,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "The Adventures of Priscilla, Queen of the Desert",
+        "year": "1994",
+        "tmdb_id": 2759,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Hoop Dreams",
+        "year": "1994",
+        "tmdb_id": 14275,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Sátántangó",
+        "year": "1994",
+        "tmdb_id": 31414,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Clerks",
+        "year": "1994",
+        "tmdb_id": 2292,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Four Weddings and a Funeral",
+        "year": "1994",
+        "tmdb_id": 712,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "tmdb_id": 13,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Through the Olive Trees (Zire Darakhatan Zeyton)",
+        "year": "1994",
+        "tmdb_id": 47104,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "tmdb_id": 278,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Dear Diary (Caro Diario)",
+        "year": "1994",
+        "tmdb_id": 25403,
+        "tmdb_year": "1993"
+    },
+    {
+        "title": "Chungking Express (Chong Qing Sen Lin)",
+        "year": "1994",
+        "tmdb_id": 11104,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "The Kingdom (Riget)",
+        "year": "1994",
+        "tmdb_id": 22137,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Lamerica",
+        "year": "1994",
+        "tmdb_id": 49133,
+        "tmdb_year": "1994"
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "tmdb_id": 197,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Deseret",
+        "year": "1995",
+        "tmdb_id": 97046,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Babe",
+        "year": "1995",
+        "tmdb_id": 9598,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "tmdb_id": 807,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Smoke",
+        "year": "1995",
+        "tmdb_id": 10149,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "The White Balloon (Badkonake Sefid)",
+        "year": "1995",
+        "tmdb_id": 46785,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Underground",
+        "year": "1995",
+        "tmdb_id": 11902,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "The Brave-Hearted Will Take the Bride (Dilwale Dulhaniya le Jayenge)",
+        "year": "1995",
+        "tmdb_id": 19404,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Cyclo (Xich Lo)",
+        "year": "1995",
+        "tmdb_id": 36266,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Clueless",
+        "year": "1995",
+        "tmdb_id": 9603,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Safe",
+        "year": "1995",
+        "tmdb_id": 32646,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "tmdb_id": 949,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "tmdb_id": 862,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Toy Story 2",
+        "year": "1999",
+        "tmdb_id": 863,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "tmdb_id": 10193,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Toy Story 4",
+        "year": "2019",
+        "tmdb_id": 301528,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Dead Man",
+        "year": "1995",
+        "tmdb_id": 922,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "tmdb_id": 629,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Zero Kelvin (Kjærlighetens Kjøtere)",
+        "year": "1995",
+        "tmdb_id": 85589,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Casino",
+        "year": "1995",
+        "tmdb_id": 524,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Strange Days",
+        "year": "1995",
+        "tmdb_id": 281,
+        "tmdb_year": "1995"
+    },
+    {
+        "title": "Trainspotting",
+        "year": "1996",
+        "tmdb_id": 627,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Fargo",
+        "year": "1996",
+        "tmdb_id": 275,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Gabbeh",
+        "year": "1996",
+        "tmdb_id": 43771,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Three Lives and Only One Death (Trois Vies & Une Seule Mort)",
+        "year": "1996",
+        "tmdb_id": 55049,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Shine",
+        "year": "1996",
+        "tmdb_id": 7863,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Scream",
+        "year": "1996",
+        "tmdb_id": 4232,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Secrets & Lies",
+        "year": "1996",
+        "tmdb_id": 11159,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "The English Patient",
+        "year": "1996",
+        "tmdb_id": 409,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Lone Star",
+        "year": "1996",
+        "tmdb_id": 26748,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Breaking the Waves",
+        "year": "1996",
+        "tmdb_id": 145,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "Independence Day",
+        "year": "1996",
+        "tmdb_id": 602,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "The Pillow Book",
+        "year": "1996",
+        "tmdb_id": 26422,
+        "tmdb_year": "1996"
+    },
+    {
+        "title": "The Ice Storm",
+        "year": "1997",
+        "tmdb_id": 68924,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Hana-Bi",
+        "year": "1997",
+        "tmdb_id": 5910,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Boogie Nights",
+        "year": "1997",
+        "tmdb_id": 4995,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "tmdb_id": 2118,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Funny Games",
+        "year": "1997",
+        "tmdb_id": 10234,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Open Your Eyes (Abre Los Ojos)",
+        "year": "1997",
+        "tmdb_id": 1902,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "The Sweet Hereafter",
+        "year": "1997",
+        "tmdb_id": 10217,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Titanic",
+        "year": "1997",
+        "tmdb_id": 597,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Taste of Cherry (Ta'm e Guilass)",
+        "year": "1997",
+        "tmdb_id": 30020,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Deconstructing Harry",
+        "year": "1997",
+        "tmdb_id": 2639,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Happy Together (Cheun Gwong Tsa Sit)",
+        "year": "1997",
+        "tmdb_id": 18329,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Princess Mononoke (Mononoke Hime)",
+        "year": "1997",
+        "tmdb_id": 128,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Fast, Cheap, and Out of Control",
+        "year": "1997",
+        "tmdb_id": 25099,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "The Butcher Boy",
+        "year": "1997",
+        "tmdb_id": 22797,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Kundun",
+        "year": "1997",
+        "tmdb_id": 9746,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Mother and Son (Mat' i Syn)",
+        "year": "1997",
+        "tmdb_id": 44361,
+        "tmdb_year": "1997"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "tmdb_id": 857,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Run Lola Run (Lola Rennt)",
+        "year": "1998",
+        "tmdb_id": 104,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Rushmore",
+        "year": "1998",
+        "tmdb_id": 11545,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "The Celebration (Festen)",
+        "year": "1998",
+        "tmdb_id": 309,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Buffalo '66",
+        "year": "1998",
+        "tmdb_id": 9464,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Ring (Ringu)",
+        "year": "1998",
+        "tmdb_id": 2671,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Happiness",
+        "year": "1998",
+        "tmdb_id": 10683,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "The Thin Red Line",
+        "year": "1998",
+        "tmdb_id": 8741,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Tetsuo",
+        "year": "1989",
+        "tmdb_id": 41428,
+        "tmdb_year": "1989"
+    },
+    {
+        "title": "Lock, Stock, and Two Smoking Barrels",
+        "year": "1998",
+        "tmdb_id": 100,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Pi",
+        "year": "1998",
+        "tmdb_id": 473,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "The Idiots (Idioterne)",
+        "year": "1998",
+        "tmdb_id": 452,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "Sombre",
+        "year": "1998",
+        "tmdb_id": 56653,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "There's Something About Mary",
+        "year": "1998",
+        "tmdb_id": 544,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "tmdb_id": 115,
+        "tmdb_year": "1998"
+    },
+    {
+        "title": "The Blair Witch Project",
+        "year": "1999",
+        "tmdb_id": 2667,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Being John Malkovich",
+        "year": "1999",
+        "tmdb_id": 492,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "tmdb_id": 745,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Three Kings",
+        "year": "1999",
+        "tmdb_id": 6415,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Magnolia",
+        "year": "1999",
+        "tmdb_id": 334,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "tmdb_id": 550,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Audition (Ōdishon)",
+        "year": "1999",
+        "tmdb_id": 11075,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "tmdb_id": 14,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Beau Travail",
+        "year": "1999",
+        "tmdb_id": 14626,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "All About My Mother (Todo Sobre mi Madre)",
+        "year": "1999",
+        "tmdb_id": 99,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "tmdb_id": 603,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Taboo (Gohatto)",
+        "year": "1999",
+        "tmdb_id": 20617,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Rosetta",
+        "year": "1999",
+        "tmdb_id": 11489,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "The Wind Will Carry Us (Bād mā rā Khāhad Bord)",
+        "year": "1999",
+        "tmdb_id": 43423,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Time Regained (Le Temps Retrouvé)",
+        "year": "1999",
+        "tmdb_id": 47439,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Attack the Gas Station (Juyuso Seupgyeok Sageon)",
+        "year": "1999",
+        "tmdb_id": 16606,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "Eyes Wide Shut",
+        "year": "1999",
+        "tmdb_id": 345,
+        "tmdb_year": "1999"
+    },
+    {
+        "title": "The Gleaners and I (Les Glaneurs et la Glaneuse)",
+        "year": "2000",
+        "tmdb_id": 44379,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "In the Mood for Love (Dut Yeung Nin Wa)",
+        "year": "2000",
+        "tmdb_id": 843,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "tmdb_id": 98,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Kippur",
+        "year": "2000",
+        "tmdb_id": 49709,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "A One and a Two (Yi Yi)",
+        "year": "2000",
+        "tmdb_id": 25538,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "tmdb_id": 641,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Amores Perros",
+        "year": "2000",
+        "tmdb_id": 55,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "tmdb_id": 77,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)",
+        "year": "2000",
+        "tmdb_id": 146,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Nine Queens (Nueve Reinas)",
+        "year": "2000",
+        "tmdb_id": 18079,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "The Captive (La Captive)",
+        "year": "2000",
+        "tmdb_id": 47244,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Ali Zaoua, Prince of the Streets (Ali Zaoua, Prince de la Rue)",
+        "year": "2000",
+        "tmdb_id": 49167,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Meet the Parents",
+        "year": "2000",
+        "tmdb_id": 1597,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Signs & Wonders",
+        "year": "2000",
+        "tmdb_id": 47588,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Traffic",
+        "year": "2000",
+        "tmdb_id": 1900,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "Dancer in the Dark",
+        "year": "2000",
+        "tmdb_id": 16,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "O Brother, Where Art Thou?",
+        "year": "2000",
+        "tmdb_id": 134,
+        "tmdb_year": "2000"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "tmdb_id": 120,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "tmdb_id": 121,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "tmdb_id": 122,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Spirited Away (Sen to Chihiro no Kamikakushi)",
+        "year": "2001",
+        "tmdb_id": 129,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "No Man's Land",
+        "year": "2001",
+        "tmdb_id": 8342,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Amélie (Le Fabuleux Destin d' Amélie Poulain)",
+        "year": "2001",
+        "tmdb_id": 194,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "What Time Is It There? (Ni na Bian Ji Dian)",
+        "year": "2001",
+        "tmdb_id": 24166,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Y Tu Mama Tambien",
+        "year": "2001",
+        "tmdb_id": 1391,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Kandahar (Safar e Ghandehar)",
+        "year": "2001",
+        "tmdb_id": 28171,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "The Piano Teacher (La Pianiste)",
+        "year": "2001",
+        "tmdb_id": 1791,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "The Son's Room (La Stanza del Figlio)",
+        "year": "2001",
+        "tmdb_id": 11447,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Moulin Rouge",
+        "year": "2001",
+        "tmdb_id": 824,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Monsoon Wedding",
+        "year": "2001",
+        "tmdb_id": 480,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Fat Girl (A Ma Soeur!)",
+        "year": "2001",
+        "tmdb_id": 570,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Mulholland Drive",
+        "year": "2001",
+        "tmdb_id": 1018,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "The Royal Tenenbaums",
+        "year": "2001",
+        "tmdb_id": 9428,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Lantana",
+        "year": "2001",
+        "tmdb_id": 9523,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "A.I.: Artificial Intelligence",
+        "year": "2001",
+        "tmdb_id": 644,
+        "tmdb_year": "2001"
+    },
+    {
+        "title": "Gangs of New York",
+        "year": "2002",
+        "tmdb_id": 3131,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Russian Ark (Russkij Kovcheg)",
+        "year": "2002",
+        "tmdb_id": 16646,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Bowling for Columbine",
+        "year": "2002",
+        "tmdb_id": 1430,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "City of God (Cidade de Deus)",
+        "year": "2002",
+        "tmdb_id": 598,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Talk to Her (Hable Con Ella)",
+        "year": "2002",
+        "tmdb_id": 64,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "tmdb_id": 423,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Adaptation.",
+        "year": "2002",
+        "tmdb_id": 2757,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Far from Heaven",
+        "year": "2002",
+        "tmdb_id": 10712,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Chicago",
+        "year": "2002",
+        "tmdb_id": 1574,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Hero (Ying Xiong)",
+        "year": "2002",
+        "tmdb_id": 79,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Distant (Uzak)",
+        "year": "2002",
+        "tmdb_id": 31026,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Rabbit-Proof Fence",
+        "year": "2002",
+        "tmdb_id": 9555,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Irreversible",
+        "year": "2002",
+        "tmdb_id": 979,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Bus 174",
+        "year": "2002",
+        "tmdb_id": 8439,
+        "tmdb_year": "2002"
+    },
+    {
+        "title": "Elephant",
+        "year": "2003",
+        "tmdb_id": 1807,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Aileen: Life and Death of a Serial Killer",
+        "year": "2003",
+        "tmdb_id": 37088,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "tmdb_id": 670,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Good Bye, Lenin!",
+        "year": "2003",
+        "tmdb_id": 338,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Osama",
+        "year": "2003",
+        "tmdb_id": 14757,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "The Barbarian Invasions (Les Invasions Barbares)",
+        "year": "2003",
+        "tmdb_id": 11042,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Kill Bill, Vol. 1",
+        "year": "2003",
+        "tmdb_id": 24,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "The Best of Youth (La Meglio Gioventù)",
+        "year": "2003",
+        "tmdb_id": 11659,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Lost in Translation",
+        "year": "2003",
+        "tmdb_id": 153,
+        "tmdb_year": "2003"
+    },
+    {
+        "title": "Head-On (Gegen Die Wand)",
+        "year": "2004",
+        "tmdb_id": 363,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "The Consequences of Love (Le Conseguenze dell’Amore)",
+        "year": "2004",
+        "tmdb_id": 24653,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Moolaadé",
+        "year": "2004",
+        "tmdb_id": 39504,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Downfall (Der Untergang)",
+        "year": "2004",
+        "tmdb_id": 613,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Fahrenheit 9/11",
+        "year": "2004",
+        "tmdb_id": 1777,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "The Passion of the Christ",
+        "year": "2004",
+        "tmdb_id": 615,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Collateral",
+        "year": "2004",
+        "tmdb_id": 1538,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "The Aviator",
+        "year": "2004",
+        "tmdb_id": 2567,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "tmdb_id": 70,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "3-Iron (Bin-Jip)",
+        "year": "2004",
+        "tmdb_id": 1280,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Crash",
+        "year": "2004",
+        "tmdb_id": 1640,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Sideways",
+        "year": "2004",
+        "tmdb_id": 9675,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "A Very Long Engagement (Un Long Dimanche de Fiançailles)",
+        "year": "2004",
+        "tmdb_id": 2841,
+        "tmdb_year": "2004"
+    },
+    {
+        "title": "Tsotsi",
+        "year": "2005",
+        "tmdb_id": 868,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "Brokeback Mountain",
+        "year": "2005",
+        "tmdb_id": 142,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "Go, See, and Become (Va, Vis et Deviens / Live and Become)",
+        "year": "2005",
+        "tmdb_id": 1986,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "Paradise Now",
+        "year": "2005",
+        "tmdb_id": 67,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "Hidden (Caché)",
+        "year": "2005",
+        "tmdb_id": 445,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "The Constant Gardener",
+        "year": "2005",
+        "tmdb_id": 1985,
+        "tmdb_year": "2005"
+    },
+    {
+        "title": "Pan's Labyrinth (El Laberinto del Fauno)",
+        "year": "2006",
+        "tmdb_id": 1417,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "The Lives of Others (Das Leben der Anderen)",
+        "year": "2006",
+        "tmdb_id": 582,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Apocalypto",
+        "year": "2006",
+        "tmdb_id": 1579,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "year": "2006",
+        "tmdb_id": 496,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Once",
+        "year": "2006",
+        "tmdb_id": 5723,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "The Queen",
+        "year": "2006",
+        "tmdb_id": 1165,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "The Host (Gwoemul)",
+        "year": "2006",
+        "tmdb_id": 1255,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "tmdb_id": 1124,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Children of Men",
+        "year": "2006",
+        "tmdb_id": 9693,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "United 93",
+        "year": "2006",
+        "tmdb_id": 9829,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "The Last King of Scotland",
+        "year": "2006",
+        "tmdb_id": 1523,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Babel",
+        "year": "2006",
+        "tmdb_id": 1164,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Volver",
+        "year": "2006",
+        "tmdb_id": 219,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Little Miss Sunshine",
+        "year": "2006",
+        "tmdb_id": 773,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "tmdb_id": 1422,
+        "tmdb_year": "2006"
+    },
+    {
+        "title": "Paranormal Activity",
+        "year": "2007",
+        "tmdb_id": 23827,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "tmdb_id": 7345,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "La Vie en Rose",
+        "year": "2007",
+        "tmdb_id": 1407,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "Into the Wild",
+        "year": "2007",
+        "tmdb_id": 5915,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "Atonement",
+        "year": "2007",
+        "tmdb_id": 4347,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "Surfwise",
+        "year": "2007",
+        "tmdb_id": 26354,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "The Bourne Ultimatum",
+        "year": "2007",
+        "tmdb_id": 2503,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "tmdb_id": 6977,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "The Diving Bell and the Butterfly (Le Scaphandre et le Papillon)",
+        "year": "2007",
+        "tmdb_id": 2013,
+        "tmdb_year": "2007"
+    },
+    {
+        "title": "The Hurt Locker",
+        "year": "2008",
+        "tmdb_id": 12162,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "Slumdog Millionaire",
+        "year": "2008",
+        "tmdb_id": 12405,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "tmdb_id": 155,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "Let the Right One In (Låt den Rätte Komma In)",
+        "year": "2008",
+        "tmdb_id": 13310,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "Wall-E",
+        "year": "2008",
+        "tmdb_id": 10681,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "The Good, the Bad, the Weird (Joheun nom Nabbeun nom Isanghan nom)",
+        "year": "2008",
+        "tmdb_id": 15067,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "The Wrestler",
+        "year": "2008",
+        "tmdb_id": 12163,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "The Curious Case of Benjamin Button",
+        "year": "2008",
+        "tmdb_id": 4922,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "The Class (Entre les Murs)",
+        "year": "2008",
+        "tmdb_id": 8841,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "Anvil! The Story of Anvil",
+        "year": "2008",
+        "tmdb_id": 18094,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "Gomorrah (Gomorra)",
+        "year": "2008",
+        "tmdb_id": 8882,
+        "tmdb_year": "2008"
+    },
+    {
+        "title": "District 9",
+        "year": "2009",
+        "tmdb_id": 17654,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "Avatar",
+        "year": "2009",
+        "tmdb_id": 19995,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "An Education",
+        "year": "2009",
+        "tmdb_id": 24684,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "Precious: Based on the Novel \"Push\" by Sapphire",
+        "year": "2009",
+        "tmdb_id": 25793,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "The Hangover",
+        "year": "2009",
+        "tmdb_id": 18785,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "In the Loop",
+        "year": "2009",
+        "tmdb_id": 19833,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "Fish Tank",
+        "year": "2009",
+        "tmdb_id": 24469,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "tmdb_id": 16869,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "The White Ribbon (Das Weisse Band: Eine Deutsche Kindergeschichte)",
+        "year": "2009",
+        "tmdb_id": 37903,
+        "tmdb_year": "2009"
+    },
+    {
+        "title": "Nostalgia for the Light (Nostalgia de la luz)",
+        "year": "2010",
+        "tmdb_id": 72721,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Black Swan",
+        "year": "2010",
+        "tmdb_id": 44214,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "tmdb_id": 27205,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "The Social Network",
+        "year": "2010",
+        "tmdb_id": 37799,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Monsters",
+        "year": "2010",
+        "tmdb_id": 43933,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Four Lions",
+        "year": "2010",
+        "tmdb_id": 37495,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "True Grit",
+        "year": "2010",
+        "tmdb_id": 44264,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Of Gods and Men (Des Hommes et des Dieux)",
+        "year": "2010",
+        "tmdb_id": 46332,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "The King's Speech",
+        "year": "2010",
+        "tmdb_id": 45269,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Senna",
+        "year": "2010",
+        "tmdb_id": 58496,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "Cave of Forgotten Dreams",
+        "year": "2010",
+        "tmdb_id": 59490,
+        "tmdb_year": "2010"
+    },
+    {
+        "title": "The Artist",
+        "year": "2011",
+        "tmdb_id": 74643,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "A Separation (Jodái-e Náder az Simin)",
+        "year": "2011",
+        "tmdb_id": 60243,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "The Girl with the Dragon Tattoo",
+        "year": "2011",
+        "tmdb_id": 65754,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "War Horse",
+        "year": "2011",
+        "tmdb_id": 57212,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "The Descendants",
+        "year": "2011",
+        "tmdb_id": 65057,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Hugo",
+        "year": "2011",
+        "tmdb_id": 44826,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Le Havre",
+        "year": "2011",
+        "tmdb_id": 73532,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Shame",
+        "year": "2011",
+        "tmdb_id": 76025,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Tinker Tailor Soldier Spy",
+        "year": "2011",
+        "tmdb_id": 49517,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Bridesmaids",
+        "year": "2011",
+        "tmdb_id": 55721,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "The Tree of Life",
+        "year": "2011",
+        "tmdb_id": 8967,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "The Kid with a Bike (Le Gamin au vélo)",
+        "year": "2011",
+        "tmdb_id": 63831,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "Drive",
+        "year": "2011",
+        "tmdb_id": 64690,
+        "tmdb_year": "2011"
+    },
+    {
+        "title": "The Cabin in the Woods",
+        "year": "2012",
+        "tmdb_id": 22970,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Wadjda",
+        "year": "2012",
+        "tmdb_id": 129112,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Lincoln",
+        "year": "2012",
+        "tmdb_id": 72976,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Life of Pi",
+        "year": "2012",
+        "tmdb_id": 87827,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Les Misérables",
+        "year": "2012",
+        "tmdb_id": 82695,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Argo",
+        "year": "2012",
+        "tmdb_id": 68734,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Skyfall",
+        "year": "2012",
+        "tmdb_id": 37724,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Blancanieves",
+        "year": "2012",
+        "tmdb_id": 127864,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Amour",
+        "year": "2012",
+        "tmdb_id": 86837,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "tmdb_id": 68718,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "The Act of Killing",
+        "year": "2012",
+        "tmdb_id": 123678,
+        "tmdb_year": "2012"
+    },
+    {
+        "title": "Gravity",
+        "year": "2013",
+        "tmdb_id": 49047,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "The Great Beauty (La grande bellezza)",
+        "year": "2013",
+        "tmdb_id": 179144,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Blue Is the Warmest Color (La vie d’Adèle - Chapitres 1 et 2)",
+        "year": "2013",
+        "tmdb_id": 152584,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": "2013",
+        "tmdb_id": 76203,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Nebraska",
+        "year": "2013",
+        "tmdb_id": 129670,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Inside Llewyn Davis",
+        "year": "2013",
+        "tmdb_id": 86829,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "American Hustle",
+        "year": "2013",
+        "tmdb_id": 168672,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "A Touch of Sin (Tian zhu ding)",
+        "year": "2013",
+        "tmdb_id": 187022,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Ida",
+        "year": "2013",
+        "tmdb_id": 209274,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Under the Skin",
+        "year": "2013",
+        "tmdb_id": 97370,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "tmdb_id": 106646,
+        "tmdb_year": "2013"
+    },
+    {
+        "title": "Leviathan (Leviafan)",
+        "year": "2014",
+        "tmdb_id": 265180,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Boyhood",
+        "year": "2014",
+        "tmdb_id": 85350,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Birdman: Or (The Unexpected Virtue of Ignorance)",
+        "year": "2014",
+        "tmdb_id": 194662,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "tmdb_id": 244786,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "tmdb_id": 120467,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Citizenfour",
+        "year": "2014",
+        "tmdb_id": 293310,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Guardians of the Galaxy",
+        "year": "2014",
+        "tmdb_id": 118340,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "The Theory of Everything",
+        "year": "2014",
+        "tmdb_id": 266856,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "The Look of Silence",
+        "year": "2014",
+        "tmdb_id": 267480,
+        "tmdb_year": "2014"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "year": "2015",
+        "tmdb_id": 140607,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "The Revenant",
+        "year": "2015",
+        "tmdb_id": 281957,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Son of Saul (Saul fia)",
+        "year": "2015",
+        "tmdb_id": 336050,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Bridge of Spies",
+        "year": "2015",
+        "tmdb_id": 296098,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "The Big Short",
+        "year": "2015",
+        "tmdb_id": 318846,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Spotlight",
+        "year": "2015",
+        "tmdb_id": 314365,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Tangerine",
+        "year": "2015",
+        "tmdb_id": 308084,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Straight Outta Compton",
+        "year": "2015",
+        "tmdb_id": 277216,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "tmdb_id": 76341,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "Victoria",
+        "year": "2015",
+        "tmdb_id": 320007,
+        "tmdb_year": "2015"
+    },
+    {
+        "title": "La La Land",
+        "year": "2016",
+        "tmdb_id": 313369,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Hell or High Water",
+        "year": "2016",
+        "tmdb_id": 338766,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Jackie",
+        "year": "2016",
+        "tmdb_id": 376866,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Toni Erdmann",
+        "year": "2016",
+        "tmdb_id": 374475,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Under the Shadow",
+        "year": "2016",
+        "tmdb_id": 375012,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Manchester by the Sea",
+        "year": "2016",
+        "tmdb_id": 334541,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "I, Daniel Blake",
+        "year": "2016",
+        "tmdb_id": 374473,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "13th",
+        "year": "2016",
+        "tmdb_id": 407806,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Arrival",
+        "year": "2016",
+        "tmdb_id": 329865,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Moonlight",
+        "year": "2016",
+        "tmdb_id": 376867,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "tmdb_id": 290098,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Dawson City: Frozen Time",
+        "year": "2016",
+        "tmdb_id": 413580,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Lady Macbeth",
+        "year": "2016",
+        "tmdb_id": 410117,
+        "tmdb_year": "2016"
+    },
+    {
+        "title": "Lady Bird",
+        "year": "2017",
+        "tmdb_id": 391713,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "The Shape of Water",
+        "year": "2017",
+        "tmdb_id": 399055,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "tmdb_id": 359940,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Call Me by Your Name",
+        "year": "2017",
+        "tmdb_id": 398818,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Mother!",
+        "year": "2017",
+        "tmdb_id": 381283,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": "2017",
+        "tmdb_id": 335984,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Get Out",
+        "year": "2017",
+        "tmdb_id": 419430,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Phantom Thread",
+        "year": "2017",
+        "tmdb_id": 400617,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "The Greatest Showman",
+        "year": "2017",
+        "tmdb_id": 316029,
+        "tmdb_year": "2017"
+    },
+    {
+        "title": "Black Panther",
+        "year": "2018",
+        "tmdb_id": 284054,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Crazy Rich Asians",
+        "year": "2018",
+        "tmdb_id": 455207,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "tmdb_id": 517814,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "tmdb_id": 299536,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Roma",
+        "year": "2018",
+        "tmdb_id": 426426,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Hereditary",
+        "year": "2018",
+        "tmdb_id": 493922,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "The Favourite",
+        "year": "2018",
+        "tmdb_id": 375262,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Sorry to Bother You",
+        "year": "2018",
+        "tmdb_id": 424781,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Vice",
+        "year": "2018",
+        "tmdb_id": 429197,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "BlacKkKlansman",
+        "year": "2018",
+        "tmdb_id": 487558,
+        "tmdb_year": "2018"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "tmdb_id": 299534,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Portrait of a Lady on Fire (Portrait de la jeune fille en feu)",
+        "year": "2019",
+        "tmdb_id": 531428,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "For Sama",
+        "year": "2019",
+        "tmdb_id": 576017,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Booksmart",
+        "year": "2019",
+        "tmdb_id": 505600,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Once Upon a Time in Hollywood",
+        "year": "2019",
+        "tmdb_id": 466272,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "The Farewell",
+        "year": "2019",
+        "tmdb_id": 565310,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "tmdb_id": 475557,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "tmdb_id": 496243,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Monos",
+        "year": "2019",
+        "tmdb_id": 417466,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "Little Women",
+        "year": "2019",
+        "tmdb_id": 331482,
+        "tmdb_year": "2019"
+    },
+    {
+        "title": "The Lighthouse",
+        "year": "2019",
+        "tmdb_id": 503919,
+        "tmdb_year": "2019"
+    }
+]
