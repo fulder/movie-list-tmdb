@@ -8633,5 +8633,75 @@
     "tmdb_id": 503919,
     "tmdb_year": "2019",
     "tmdb_url": "https://www.themoviedb.org/movie/503919"
+  },
+  {
+    "title": "The Vast of Night",
+    "year": "2019",
+    "tmdb_id": 565743,
+    "tmdb_year": "2019",
+    "tmdb_url": "https://www.themoviedb.org/movie/565743"
+  },
+  {
+    "title": "The Assistant",
+    "year": "2019",
+    "tmdb_id": 627463,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/627463"
+  },
+  {
+    "title": "Rocks",
+    "year": "2019",
+    "tmdb_id": 575773,
+    "tmdb_year": "2019",
+    "tmdb_url": "https://www.themoviedb.org/movie/575773"
+  },
+  {
+    "title": "Saint Maud",
+    "year": "2019",
+    "tmdb_id": 575776,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/575776"
+  },
+  {
+    "title": "Tenet",
+    "year": "2020",
+    "tmdb_id": 577922,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/577922"
+  },
+  {
+    "title": "Ma Rainey's Black Bottom",
+    "year": "2020",
+    "tmdb_id": 615667,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/615667"
+  },
+  {
+    "title": "Soul",
+    "year": "2020",
+    "tmdb_id": 508442,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/508442"
+  },
+  {
+    "title": "Never Rarely Sometimes Always",
+    "year": "2020",
+    "tmdb_id": 595671,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/movie/595671"
+  },
+  {
+    "title": "Small Axe",
+    "year": "2020",
+    "tmdb_id": 90705,
+    "tmdb_year": "2020",
+    "tmdb_url": "https://www.themoviedb.org/tv/90705"
+  },
+  {
+    "title": "Nomadland",
+    "year": "2020",
+    "tmdb_id": 581734,
+    "tmdb_year": "2021",
+    "tmdb_url": "https://www.themoviedb.org/movie/581734"
   }
 ]
