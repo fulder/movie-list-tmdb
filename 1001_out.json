@@ -805,7 +805,7 @@
     "tmdb_url": "https://www.themoviedb.org/movie/30992"
   },
   {
-    "title": "Snow White and the Seven Dwarves",
+    "title": "Snow White and the Seven Dwarfs",
     "year": "1937",
     "tmdb_id": 408,
     "tmdb_year": "1937",
@@ -2464,6 +2464,13 @@
     "tmdb_url": "https://www.themoviedb.org/movie/38724"
   },
   {
+    "title": "Dracula",
+    "year": "1958",
+    "tmdb_id": 11868,
+    "tmdb_year": "1958",
+    "tmdb_url": "https://www.themoviedb.org/movie/11868"
+  },
+  {
     "title": "Some Like It Hot",
     "year": "1959",
     "tmdb_id": 239,
@@ -2772,7 +2779,7 @@
     "tmdb_url": "https://www.themoviedb.org/movie/499"
   },
   {
-    "title": "Dog Star Man: Part I",
+    "title": "Dog Star Man",
     "year": "1962",
     "tmdb_id": 85110,
     "tmdb_year": "1962",
@@ -8348,6 +8355,13 @@
     "tmdb_url": "https://www.themoviedb.org/movie/338766"
   },
   {
+    "title": "The Jungle Book",
+    "year": "2016",
+    "tmdb_id": 278927,
+    "tmdb_year": "2016",
+    "tmdb_url": "https://www.themoviedb.org/movie/278927"
+  },
+  {
     "title": "Jackie",
     "year": "2016",
     "tmdb_id": 376866,
@@ -8507,6 +8521,13 @@
     "tmdb_id": 517814,
     "tmdb_year": "2018",
     "tmdb_url": "https://www.themoviedb.org/movie/517814"
+  },
+  {
+    "title": "A Star is Born",
+    "year": "2018",
+    "tmdb_id": 332562,
+    "tmdb_year": "2018",
+    "tmdb_url": "https://www.themoviedb.org/movie/332562"
   },
   {
     "title": "Avengers: Infinity War",
@@ -8691,7 +8712,7 @@
     "tmdb_url": "https://www.themoviedb.org/movie/595671"
   },
   {
-    "title": "Small Axe",
+    "title": "Lovers Rock",
     "year": "2020",
     "tmdb_id": 90705,
     "tmdb_year": "2020",
@@ -8703,5 +8724,145 @@
     "tmdb_id": 581734,
     "tmdb_year": "2021",
     "tmdb_url": "https://www.themoviedb.org/movie/581734"
+  },
+  {
+    "title": "Quo Vadis, Aida?",
+    "year": "2020",
+    "tmdb_id": 728118,
+    "tmdb_year": "2021",
+    "tmdb_url": "https://www.themoviedb.org/movie/728118"
+  },
+  {
+    "title": "Drive My Car",
+    "year": "2021",
+    "tmdb_id": 758866,
+    "tmdb_year": "2021",
+    "tmdb_url": "https://www.themoviedb.org/movie/758866"
+  },
+  {
+    "title": "Summer of Soul (...or, When the Revolution Could Not Be Televised)",
+    "year": "2021",
+    "tmdb_id": 776527,
+    "tmdb_year": "2021",
+    "tmdb_url": "https://www.themoviedb.org/movie/776527"
+  },
+  {
+    "title": "Dune",
+    "year": "2021",
+    "tmdb_id": 438631,
+    "tmdb_year": "2021",
+    "tmdb_url": "https://www.themoviedb.org/movie/438631"
+  },
+  {
+    "title": "Aftersun",
+    "year": "2022",
+    "tmdb_id": 965150,
+    "tmdb_year": "2022",
+    "tmdb_url": "https://www.themoviedb.org/movie/965150"
+  },
+  {
+    "title": "RRR",
+    "year": "2022",
+    "tmdb_id": 579974,
+    "tmdb_year": "2022",
+    "tmdb_url": "https://www.themoviedb.org/movie/579974"
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "year": "2023",
+    "tmdb_id": 915935,
+    "tmdb_year": "2023",
+    "tmdb_url": "https://www.themoviedb.org/movie/915935"
+  },
+  {
+    "title": "Barbie",
+    "year": "2023",
+    "tmdb_id": 346698,
+    "tmdb_year": "2023",
+    "tmdb_url": "https://www.themoviedb.org/movie/346698"
+  },
+  {
+    "title": "Oppenheimer",
+    "year": "2023",
+    "tmdb_id": 872585,
+    "tmdb_year": "2023",
+    "tmdb_url": "https://www.themoviedb.org/movie/872585"
+  },
+  {
+    "title": "The Zone of Interest",
+    "year": "2023",
+    "tmdb_id": 467244,
+    "tmdb_year": "2023",
+    "tmdb_url": "https://www.themoviedb.org/movie/467244"
+  },
+  {
+    "title": "Sing Sing",
+    "year": "2023",
+    "tmdb_id": 1155828,
+    "tmdb_year": "2024",
+    "tmdb_url": "https://www.themoviedb.org/movie/1155828"
+  },
+  {
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "tmdb_id": 693134,
+    "tmdb_year": "2024",
+    "tmdb_url": "https://www.themoviedb.org/movie/693134"
+  },
+  {
+    "title": "The Brutalist",
+    "year": "2024",
+    "tmdb_id": 549509,
+    "tmdb_year": "2024",
+    "tmdb_url": "https://www.themoviedb.org/movie/549509"
+  },
+  {
+    "title": "Anora",
+    "year": "2024",
+    "tmdb_id": 1064213,
+    "tmdb_year": "2024",
+    "tmdb_url": "https://www.themoviedb.org/movie/1064213"
+  },
+  {
+    "title": "One Battle After Another",
+    "year": "2025",
+    "tmdb_id": 1054867,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1054867"
+  },
+  {
+    "title": "Sorry, Baby",
+    "year": "2025",
+    "tmdb_id": 1205515,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1205515"
+  },
+  {
+    "title": "It Was Just an Accident",
+    "year": "2025",
+    "tmdb_id": 1456349,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1456349"
+  },
+  {
+    "title": "Sinners",
+    "year": "2025",
+    "tmdb_id": 1233413,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1233413"
+  },
+  {
+    "title": "Weapons",
+    "year": "2025",
+    "tmdb_id": 1078605,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1078605"
+  },
+  {
+    "title": "Sirat",
+    "year": "2025",
+    "tmdb_id": 1151272,
+    "tmdb_year": "2025",
+    "tmdb_url": "https://www.themoviedb.org/movie/1151272"
   }
 ]
